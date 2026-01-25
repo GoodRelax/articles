@@ -39,7 +39,7 @@ lang: ja
 
 依存の向きが内→外ではなく、外→内になっている状態が汚い
 
-![ダーティーアーキテクチャ クラス図](./class_diagram_dirty_arch.svg)
+![Dirty Architecture](./class_diagram_dirty_arch.svg)
 
 <!--
 ```plantuml
