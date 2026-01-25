@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "クリーンアーキテクチャってつまりこういうこと?"
-date: 2026-01-26
+date: 2026-01-25
 canonical: https://GoodRelax.github.io/articles/clean-architecture/article_ja.html
 tags: clean-architecture, dip, design
 lang: ja
