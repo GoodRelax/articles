@@ -1,9 +1,12 @@
 ---
+layout: default
 title: "クリーンアーキテクチャってつまりこういうこと?"
+date: 2024-01-26
 canonical: https://GoodRelax.github.io/articles/clean-architecture/article_ja.html
 tags: clean-architecture, dip, design
 lang: ja
 ---
+
 # クリーンアーキテクチャーってつまりこういうこと？
 
 よくある間違いに**手段**と**目的**の混同ってのがある。
