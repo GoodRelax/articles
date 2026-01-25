@@ -42,7 +42,7 @@ lang: ja
 ![Dirty Architecture](./class_diagram_dirty_arch.svg)
 
 <!--
-```plantuml
+```puml
 @startuml
 
 skinparam rectangleBorderThickness 3
@@ -79,15 +79,15 @@ EN_content -d-> UC_content : "depends on"
 
 内側の Use Case や Interface Adapter は 自分たちの都合で定義した interface を経由して外側の道具を使うのがポイント
 
-![クリーンアーキテクチャ クラス図](./class_diagram_clean_arch.svg)
+![Clean Architecture](./class_diagram_clean_arch.svg)
 
 <!--
-```plantuml
+```puml
 @startuml
 
 skinparam rectangleBorderThickness 3
 skinparam rectangleFontColor black
-skinparam defaultTextAlignment center
+skinparam defaultTextAlignment center,
 
 rectangle "Frameworks" #4A7EBB {
     rectangle "UI, DB, Web, Devices, External Interfaces" as FW_content #F2F2F2
