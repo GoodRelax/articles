@@ -40,6 +40,7 @@ lang: ja
 依存の向きが内→外ではなく、外→内になっている状態が汚い
 
 ![ダーティーアーキテクチャ クラス図](./class_diagram_dirty_arch.svg)
+
 <!--
 ```plantuml
 @startuml
@@ -79,6 +80,7 @@ EN_content -d-> UC_content : "depends on"
 内側の Use Case や Interface Adapter は 自分たちの都合で定義した interface を経由して外側の道具を使うのがポイント
 
 ![クリーンアーキテクチャ クラス図](./class_diagram_clean_arch.svg)
+
 <!--
 ```plantuml
 @startuml
