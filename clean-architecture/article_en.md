@@ -47,7 +47,7 @@ Represented as a class diagram, it looks like this.
 
 A “dirty” state is when dependencies point from the inside to the outside, instead of from the outside to the inside.
 
-![Dirty Architecture](/clean-architecture/class_diagram_dirty_arch.svg)
+![Dirty Architecture](./class_diagram_dirty_arch.svg)
 
 <!--
 ```puml
@@ -85,7 +85,7 @@ EN_content -d-> UC_content : "depends on"
 
 The key point is that inner layers—Use Cases and Interface Adapters—use outer tools through interfaces defined for their own convenience.
 
-![Clean Architecture](/clean-architecture/class_diagram_clean_arch.svg)
+![Clean Architecture](./class_diagram_clean_arch.svg)
 
 <!--
 ```puml
