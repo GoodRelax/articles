@@ -134,5 +134,5 @@ Interface ってのは契約書みたいなもんだけど、中世の世界観�
 
 **参考資料**:
 - Robert C. Martin "Clean Architecture" (2017)
-- https://blog.cleancoder.com/ーncle-bob/2012/08/13/the-clean-architecture.html
+- https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
