@@ -47,6 +47,7 @@ tags: [clean-architecture, dip, design]
 ## Class Diagram of Dirty Architecture (before CA)
 
 依存の向きが内→外ではなく、外→内になっている状態が汚い
+
 ![Dirty Architecture](/clean-architecture/class_diagram_dirty_arch.svg)
 
 <!--
