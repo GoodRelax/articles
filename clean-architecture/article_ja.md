@@ -47,7 +47,7 @@ tags: [clean-architecture, dip, design]
 ## Class Diagram of Dirty Architecture (before CA)
 
 依存の向きが内→外ではなく、外→内になっている状態が汚い
-![Dirty Architecture](/articles/clean-architecture/class_diagram_dirty_arch.svg)
+![Dirty Architecture](/clean-architecture/class_diagram_dirty_arch.svg)
 
 <!--
 ```puml
@@ -87,7 +87,7 @@ EN_content -d-> UC_content : "depends on"
 
 内側の Use Case や Interface Adapter は 自分たちの都合で定義した interface を経由して外側の道具を使うのがポイント
 
-![Clean Architecture](/articles/clean-architecture/class_diagram_clean_arch.svg)
+![Clean Architecture](/clean-architecture/class_diagram_clean_arch.svg)
 
 <!--
 ```puml
