@@ -2,9 +2,15 @@
 layout: default
 title: "So, What Does Clean Architecture Really Mean?"
 date: 2026-01-25
-canonical: https://GoodRelax.github.io/articles/clean-architecture/article_en.html
-tags: clean-architecture, dip, design
 lang: en
+key: clean_architecture_01
+tags: [clean-architecture, dip, design]
+---
+
+## Index
+* Table of Contents
+{:toc}
+
 ---
 
 # So, What Does Clean Architecture Really Mean?
