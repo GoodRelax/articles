@@ -1,33 +1,39 @@
 ---
 layout: default
-title: articles
+title: Articles
+lang: en
 ---
 
-<h2>articles</h2>
-<ul>
-  {% comment %}
-    1. Get all pages from the site.
-    2. Sort them by date.
-    3. Reverse the order to show the newest articles first.
-  {% endcomment %}
-  {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
-  
-  {% for p in sorted_pages %}
-    {% comment %}
-      Filtering logic:
-      1. Exclude the current page (this index page).
-      2. Ensure the page has a 'title' (skips system files without front matter).
-      3. Ensure the file extension is .html (skips css, xml, etc.).
-    {% endcomment %}
-    {% if p.url != page.url and p.title %}
-      {% if p.url contains '.html' %}
+<h1>Articles</h1>
+
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+
+<section>
+  <h2>English</h2>
+  <ul>
+    {% for p in sorted_pages %}
+      {% if p.title and p.lang == 'en' and p.url != page.url %}
         <li>
-          <a href="{{ p.url | relative_url }}">
-            {{ p.title | default: p.name }}
-          </a>
+          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
           <small>({{ p.date | date: "%Y-%m-%d" }})</small>
         </li>
       {% endif %}
-    {% endif %}
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+</section>
+
+<hr>
+
+<section>
+  <h2>Japanese</h2>
+  <ul>
+    {% for p in sorted_pages %}
+      {% if p.title and p.lang == 'ja' and p.url != page.url %}
+        <li>
+          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          <small>({{ p.date | date: "%Y-%m-%d" }})</small>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
