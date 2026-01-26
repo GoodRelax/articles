@@ -1,1 +1,16 @@
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "ja" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+
+  <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
+    {{ content }}
+  </main>
+
+</body>
+</html>
