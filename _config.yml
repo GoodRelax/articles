@@ -1,8 +1,8 @@
 
 title: GoodRelax Tech Blog
 
-url: "https://goodrelax.github.io"
-baseurl: "/articles"
+url: "https://goodrelax.github.io/articles/"
+baseurl: ""
 
 markdown: kramdown
 kramdown:
