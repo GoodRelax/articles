@@ -30,7 +30,7 @@ pre, code {
   font-family: Consolas, monospace;
 }
 
-/* ===== daek mode ===== */
+/* ===== dark mode ===== */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #121212;
