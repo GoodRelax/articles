@@ -1,0 +1,8 @@
+title: GoodRelax Tech Blog
+url: "https://goodrelax.github.io/articles/"
+baseurl: "" 
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
