@@ -21,6 +21,8 @@ This technique—defining your own interfaces to invert dependencies—is called
 
 - DIP (Dependency Inversion Principle)
 
+The architecture which uses the DIP to protect its purpose from trivial changes in means, and to enable the choice of appropriate means for that purpose, is called **Clean Architecture (CA).**
+
 Uncle Bob explains this using four layers:
 
 - Entity (Enterprise Business Rules)

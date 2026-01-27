@@ -22,6 +22,8 @@ lang: ja
 
 ってやつ。
 
+Clean Architecture(CA) とは DIP を使って、些末な手段の変化から本来の目的を守り、目的に合った手段を選べるアーキテクチャーのこと。
+
 ボブおじさん先生は
 
 - Entity (Enterprise Business Rules)
