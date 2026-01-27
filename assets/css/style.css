@@ -1,12 +1,14 @@
 /* ===== Base Styles (Light Mode) ===== */
+/* ===== Base Styles (Light Mode) ===== */
 body {
+  font-family: Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
+  
   background-color: #ffffff;
   color: #222222;
   line-height: 1.7;
   margin: 0;
   padding: 0;
 }
-
 img {
   max-width: 100%;
   height: auto;
@@ -31,6 +33,7 @@ pre, code {
   color: #333333;
   padding: 0.2em 0.4em;
   border-radius: 4px;
+  font-family: Consolas, "Courier New", monospace;
 }
 
 /* ===== Dark Mode ===== */
