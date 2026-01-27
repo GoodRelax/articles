@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'ja' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+</head>
+<body>
+
+  <header style="max-width: 800px; margin: 0 auto; padding: 20px 20px 0;">
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      
+      {% assign translation = nil %}
+      {% for p in site.pages %}
+        {% if p.key == page.key and p.lang != page.lang %}
+          {% assign translation = p %}
+        {% endif %}
+      {% endfor %}
+
+      {% if translation %}
+        <span style="float: right;">
+          {% if translation.lang == 'en' %}
+            <a href="{{ translation.url | relative_url }}">🇺🇸 Read in English</a>
+          {% else %}
+            <a href="{{ translation.url | relative_url }}">🇯🇵 Read in Japanese</a>
+          {% endif %}
+        </span>
+      {% endif %}
+    </nav>
+  </header>
+
+  <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
+    {{ content }}
+  </main>
+
+  <footer style="text-align: center; padding: 20px; font-size: 0.8em; color: #666;">
+    <a href="https://github.com/GoodRelax">
+        &copy; {{ site.time | date: '%Y' }} GoodRelax 
+    </a>
+  </footer>
+
+</body>
+</html>

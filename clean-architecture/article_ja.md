@@ -2,9 +2,15 @@
 layout: default
 title: "クリーンアーキテクチャってつまりこういうこと?"
 date: 2026-01-25
-canonical: https://GoodRelax.github.io/articles/clean-architecture/article_ja.html
-tags: clean-architecture, dip, design
 lang: ja
+key: clean_architecture_01
+tags: [clean-architecture, dip, design]
+---
+
+## 目次
+* Table of Contents
+{:toc}
+
 ---
 
 # クリーンアーキテクチャーってつまりこういうこと？
@@ -136,5 +142,5 @@ Interface ってのは契約書みたいなもんだけど、中世の世界観�
 
 **参考資料**:
 - Robert C. Martin "Clean Architecture" (2017)
-- https://blog.cleancoder.com/ーncle-bob/2012/08/13/the-clean-architecture.html
+- https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 

@@ -1,0 +1,12 @@
+title: GoodRelax Tech Blog
+# 末尾にスラッシュや /articles を入れないでください
+url: "https://goodrelax.github.io"
+
+# ★ここが最重要です。リポジトリ名と一字一句同じにする必要があります
+# あなたのリポジトリ名が "articles" なら、以下のように書きます
+baseurl: "/articles"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
