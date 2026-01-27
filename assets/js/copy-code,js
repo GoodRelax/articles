@@ -1,0 +1,38 @@
+document.addEventListener('DOMContentLoaded', () => {
+  // コードブロック(<pre>)をすべて取得
+  const codeBlocks = document.querySelectorAll('pre');
+
+  codeBlocks.forEach((codeBlock) => {
+    // もしすでにボタンがあれば何もしない
+    if (codeBlock.querySelector('.copy-btn')) return;
+
+    // ボタン要素を作成
+    const button = document.createElement('button');
+    button.className = 'copy-btn';
+    button.type = 'button';
+    button.innerText = 'Copy';
+
+    // ボタンをクリックしたときの動作
+    button.addEventListener('click', () => {
+      // preタグの中のテキストを取得（コード内容）
+      const codeText = codeBlock.innerText;
+
+      navigator.clipboard.writeText(codeText).then(() => {
+        // 成功したらボタンの文字を一時的に変更
+        button.innerText = 'Copied!';
+        button.classList.add('copied');
+
+        setTimeout(() => {
+          button.innerText = 'Copy';
+          button.classList.remove('copied');
+        }, 2000);
+      }).catch(err => {
+        console.error('コピーに失敗しました:', err);
+      });
+    });
+
+    // コードブロックの中にボタンを追加
+    // position: absolute で配置するために、親要素のスタイル調整が必要（CSSで行う）
+    codeBlock.appendChild(button);
+  });
+});
