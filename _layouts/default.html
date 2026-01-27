@@ -14,14 +14,15 @@
   <header style="max-width: 800px; margin: 0 auto; padding: 20px 20px 0;">
     <nav>
       <a href="{{ '/' | relative_url }}">Home</a>
-      
       {% assign translation = nil %}
-      {% for p in site.pages %}
-        {% if p.key == page.key and p.lang != page.lang %}
-          {% assign translation = p %}
-        {% endif %}
-      {% endfor %}
-
+      {% if page.key %}
+        {% for p in site.pages %}
+          {% if p.key == page.key and p.lang != page.lang %}
+            {% assign translation = p %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      
       {% if translation %}
         <span style="float: right;">
           {% if translation.lang == 'en' %}
