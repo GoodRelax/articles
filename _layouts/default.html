@@ -27,7 +27,7 @@
           {% if translation.lang == 'en' %}
             <a href="{{ translation.url | relative_url }}">🇺🇸 Read in English</a>
           {% else %}
-            <a href="{{ translation.url | relative_url }}">🇯🇵 日本語で読む</a>
+            <a href="{{ translation.url | relative_url }}">🇯🇵 Read in Japanese</a>
           {% endif %}
         </span>
       {% endif %}
@@ -39,7 +39,8 @@
   </main>
 
   <footer style="text-align: center; padding: 20px; font-size: 0.8em; color: #666;">
-    &copy; {{ site.time | date: '%Y' }} My Tech Blog
+    &copy; {{ site.time | date: '%Y' }} 
+    <a href="https://github.com/GoodRelax" (c) GoodRelax </a>
   </footer>
 
 </body>
