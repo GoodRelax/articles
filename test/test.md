@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "コードブロックとコピーボタンのテスト"
-date: 2026-01-27 12:00:00 +0900
-categories: test
+title: "test"
+date: 2026-01-25
+lang: en
+key: test
+tags: [test]
 ---
 
 これはコードブロックのコピーボタンをテストするためのページです。
