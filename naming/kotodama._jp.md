@@ -101,8 +101,7 @@ AIはロジックだけでなく、**私たちが与えた意味（セマンテ�
 
 ## GR Naming Cheat Sheet
 
-というわけで、この「言霊」を活かすために  
-**GR Naming Cheat Sheet** を作ってみた。
+というわけで、この「言霊」を活かすために**GR Naming Cheat Sheet** を作ってみた。
 
 - [English](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_en.html)
 - [Japanese](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_ja.html)
@@ -110,3 +109,8 @@ AIはロジックだけでなく、**私たちが与えた意味（セマンテ�
 適切な名前に悩んだとき、きっとヒントになると思う。
 
 このシートが、皆さんのコードをほんの少し良くして、そのソフトウェアが、私を含め、誰かを少しでも幸せにしてくれたら嬉しい。
+
+**参考資料**:
+- [https://ja.wikipedia.org/wiki/言霊](https://ja.wikipedia.org/wiki/言霊)
+- [https://ja.wikipedia.org/wiki/有限演算](https://ja.wikipedia.org/wiki/有限演算)
+
