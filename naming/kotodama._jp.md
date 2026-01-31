@@ -8,9 +8,8 @@ tags: [softwareengineering, cleancode, programming, philosophy, ai]
 ---
 
 ## 目次
-
-- Table of Contents
-  {:toc}
+* Table of Contents
+{:toc}
 
 ---
 
