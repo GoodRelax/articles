@@ -70,3 +70,6 @@ To help developers harness this power, I created the **GR Naming Cheat Sheet**.
 When you are struggling to find the right name, this table may help you.
 I hope this sheet improves your code — and that your software makes everyone, including me, a little happier.
 
+References:
+- [https://en.wikipedia.org/wiki/Kotodama](https://en.wikipedia.org/wiki/Kotodama)
+- [https://en.wikipedia.org/wiki/Finitary](https://en.wikipedia.org/wiki/Finitary)
