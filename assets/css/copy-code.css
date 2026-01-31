@@ -1,10 +1,8 @@
-/* コードブロック自体を相対配置の基準にする */
 pre {
   position: relative;
-  padding-top: 2rem; /* ボタンとかぶらないように上に余白を追加 */
+  padding-top: 2rem; 
 }
 
-/* コピーボタンのスタイル */
 .copy-btn {
   position: absolute;
   top: 5px;
@@ -24,7 +22,6 @@ pre {
   background-color: #e0e0e0;
 }
 
-/* コピー成功時のスタイル */
 .copy-btn.copied {
   background-color: #4caf50;
   color: white;
