@@ -8,11 +8,11 @@ tags: [softwareengineering, cleancode, programming, philosophy, ai]
 ---
 
 ## Index
-
-- Table of Contents
-  {:toc}
+* Table of Contents
+{:toc}
 
 ---
+
 # The Soul of Software Lives in Its Names — Kotodama
 
 **Kotodama (言霊)** is an ancient Japanese concept suggesting that words possess spiritual power.
