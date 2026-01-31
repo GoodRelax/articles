@@ -64,8 +64,8 @@ Even in the age of AI, names are more important than ever. High-quality prompts 
 
 To help developers harness this power, I created the **GR Naming Cheat Sheet**.
     
-    * [English](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_en.html)
-    * [Japanes](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_jp.html)
+- [English](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_en.html)
+- [Japanese](https://goodrelax.github.io/gr-cheat-sheets/naming/naming_ja.html)
 
 When you are struggling to find the right name, this table may help you.
 I hope this sheet improves your code — and that your software makes everyone, including me, a little happier.
