@@ -70,7 +70,7 @@ UML の知識不足というよりも、**クラス図を「どう読むか」�
 
 例：
 
-> Service は Repository を所有している
+> "PaymentData は Repository を参照する"
 
 こう読めたら「あれ？」と気づける。
 
