@@ -1,7 +1,8 @@
 /* ===== Base Styles (Light Mode) ===== */
 /* ===== Base Styles (Light Mode) ===== */
 body {
-  font-family: Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
+  /* font-family: Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif; */
+  font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
   
   background-color: #ffffff;
   color: #222222;
