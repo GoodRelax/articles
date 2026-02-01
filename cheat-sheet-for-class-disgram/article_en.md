@@ -81,7 +81,7 @@ When you turn it into a sentence, awkward designs become obvious.
 
 For example:
 
-> “PaymentData depends on Repository”
+> “PaymentData refers to Repository”
 
 If you can read it like this, you immediately feel something is wrong.
 
