@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396" height="345" xml:space="preserve" overflow="hidden">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="396" height="345" viewBox="0 0 396 345" xml:space="preserve">
   <defs>
     <style>.gr-bg { fill: #ffffff; }
   .gr-axis { fill: #333333; }
