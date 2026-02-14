@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190" height="334" xml:space="preserve" overflow="hidden">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1190" height="334" xml:space="preserve" viewBox="0 0 1190 334">
   <rect class="gr-bg" x="0" y="0" width="1190" height="334"/>
   <defs>
     <linearGradient x1="200.895" y1="384.444" x2="225.105" y2="288.556" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill0">
@@ -71,8 +71,7 @@
     <path d="M0 0 72.6411 44.9178" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 1036.5 323.418)" class="gr-stroke"/>
     <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="16" transform="translate(1117.29 277)" class="gr-text">Gravity</text>
     <path d="M0 0 44.116 24.6192" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 952.5 399.119)" class="gr-stroke"/>
-    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="16" transform="translate(887.104 422)" class="gr-text">will</text>
-    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="16" transform="translate(924.771 422)" class="gr-text">fall</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="16" transform="translate(887.104 422)" class="gr-text">will fall</text>
     <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="19" transform="translate(76.2087 167)" class="gr-text">Induction</text>
     <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="19" transform="translate(656.575 167)" class="gr-text">Deduction</text>
   </g>

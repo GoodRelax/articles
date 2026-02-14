@@ -64,10 +64,10 @@ AIは**言葉を無限次元のベクトルで理解**する。
 
 疑似コードで書くとこう
 
-> apple = [2, 3, 5, ...]
+> apple = [2, 3, 5, ...]  
 > orange = [3, 5, 7, ...]
 >
-> dirOfApple = GetDirection(apple)
+> dirOfApple = GetDirection(apple)  
 > lenOfApple = GetLength(apple)
 
 絵で表すと、こうなる。
