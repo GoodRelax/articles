@@ -8,10 +8,8 @@ tags: [idea, poem, LLM, mathematics, philosophy]
 ---
 
 ## Index
-
 - Table of Contents
-  {:toc}
-
+{:toc}
 ---
 
 ## **みんなの象徴はNull** である
