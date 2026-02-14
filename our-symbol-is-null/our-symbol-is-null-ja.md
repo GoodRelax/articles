@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "みんなの象徴はNull*である"
+title: "みんなの象徴はNullである"
 date: 2026-02-14
 lang: ja
 key: our-symbol-is-null
