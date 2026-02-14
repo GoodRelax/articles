@@ -81,7 +81,7 @@ lenOfApple = GetLength(apple)
 
 絵で表すと、こうなる。
 
-![embedding](./assets/images/embedding.svg)
+<object data="./assets/images/embedding.svg" type="image/svg+xml" width="100%"></object>
 
 ChatGPT や Gemini のような LLM(Large Language Model) は、だいたいこの仕組み。
 Embedding (埋め込み) ってやつ。
