@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1269" height="705" xml:space="preserve" overflow="hidden">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1269" height="705" xml:space="preserve" viewBox="0 0 1269 705">
   <defs>
     <style>.gr-bg { fill: #ffffff; }
   .gr-axis { fill: #333333; }
@@ -70,7 +70,7 @@
     <path d="M953.75 577 940.553 564.75 946.678 564.75C943.28 543.116 931.407 528 917.813 528L930.062 528C943.657 528 955.53 543.116 958.928 564.75L965.053 564.75Z" fill="#B2B2B2" fill-rule="evenodd"/>
     <path d="M923.938 529.045C910.134 533.808 900.25 553.818 900.25 577L888 577C888 549.938 901.347 528 917.812 528 919.871 528 921.923 528.35 923.938 529.045Z" fill="#8F8F8F" fill-rule="evenodd"/>
     <rect x="7.50005" y="14.5001" width="1267" height="698" stroke="#B2B2B2" stroke-width="0.333333" stroke-miterlimit="8" fill="none"/>
-    <text font-family="Yu Gothic,Yu Gothic_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 51)" class="gr-text">Analogy</text>
-    <text font-family="Yu Gothic,Yu Gothic_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 397)" class="gr-text">Contrast</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 52)" class="gr-text">Analogy</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 398)" class="gr-text">Contrast</text>
   </g>
 </svg>
