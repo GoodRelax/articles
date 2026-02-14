@@ -64,11 +64,13 @@ AIは**言葉を無限次元のベクトルで理解**する。
 
 疑似コードで書くとこう
 
-> apple = [2, 3, 5, ...]  
-> orange = [3, 5, 7, ...]
->
-> dirOfApple = GetDirection(apple)  
-> lenOfApple = GetLength(apple)
+<pre>
+ apple = [2, 3, 5, ...]  
+ orange = [3, 5, 7, ...]
+
+ dirOfApple = GetDirection(apple)  
+ lenOfApple = GetLength(apple)
+</pre>
 
 絵で表すと、こうなる。
 
@@ -208,10 +210,10 @@ PCA? 何それおいしいの？ って人もきっと経験したことがあ�
 
 数式で書くとこう。
 
-- $抽出 : \\  
-  \text{Extract}(\vec{data}) \Rightarrow \vec{essence} \mid \vec{essence} = Z W_k \mid W_k = [\vec{v}_1, \dots, \vec{v}_k] \text{ where } \Sigma \vec{v} = \lambda \vec{v}$
+- 抽出:  
+  $\text{Extract}(\vec{data}) \Rightarrow \vec{essence} \mid \vec{essence} = Z W_k \mid W_k = [\vec{v}_1, \dots, \vec{v}_k] \text{ where } \Sigma \vec{v} = \lambda \vec{v}$
 
-  ここで...
+  ...
   - $ Z ： Zero-centering $（中心化）
   - $ W ： Weight $（重み付け）
   - $ \lambda ：$ 固有値 ＝ MECEに整理した各情報のサイズ
