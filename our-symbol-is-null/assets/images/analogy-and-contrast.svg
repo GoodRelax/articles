@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1269" height="705" xml:space="preserve" overflow="hidden">
+  <defs>
+    <style>.gr-bg { fill: #ffffff; }
+  .gr-axis { fill: #333333; }
+  .gr-stroke { stroke: #333333; }
+  .gr-text { fill: #333333; }
+  @media (prefers-color-scheme: dark) {
+    .gr-bg { fill: #1a1a1a; }
+    .gr-axis { fill: #e0e0e0; }
+    .gr-stroke { stroke: #e0e0e0; }
+    .gr-text { fill: #e0e0e0; }
+  }</style>
+  </defs>
+  <rect class="gr-bg" x="0" y="0" width="1269" height="705"/>
+  <g transform="translate(-6 -14)">
+    <path d="M954 222 941.047 210 947.047 210C943.627 188.807 931.68 174 918 174L930 174C943.68 174 955.627 188.807 959.047 210L965.047 210Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M924 174.97C910.032 179.532 900 199.191 900 222L888 222C888 195.49 901.431 174 918 174 920.015 174 922.025 174.325 924 174.97Z" fill="#8F8F8F" fill-rule="evenodd"/>
+    <path d="M97 275 358.922 275 358.922 277 97 277ZM357.588 272 365.588 276 357.588 280Z" class="gr-axis"/>
+    <path d="M151 327.588 151 65.6667 153 65.6667 153 327.588ZM148 67 152 59 156 67Z" class="gr-axis"/>
+    <path d="M0.858137-1.80654 185.376 85.8424 183.66 89.4555-0.858137 1.80654ZM185.286 81.3712 200.777 95.3722 180.137 92.2104Z" fill="#EE0000" transform="matrix(1 0 0 -1 152 276.372)"/>
+    <path d="M1.55705-1.25523 92.4947 111.549 89.3806 114.059-1.55705 1.25523ZM94.3536 107.481 102.235 126.817 85.0113 115.012Z" fill="#FFC000" transform="matrix(1 0 0 -1 152 275.817)"/>
+    <path d="M152 274.5C152 273.672 152.672 273 153.5 273 154.328 273 155 273.672 155 274.5 155 275.328 154.328 276 153.5 276 152.672 276 152 275.328 152 274.5Z" fill-rule="evenodd" class="gr-axis"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(357.757 182)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(251.417 150)" class="gr-text">🍊</text>
+    <path d="M0 0 229.992 174.182" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 126.5 295.682)" class="gr-stroke"/>
+    <path d="M326.5 146.5 353.03 181.53" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M255.5 152.5 275.684 179.151" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M553 275 814.922 275 814.922 277 553 277ZM813.588 272 821.588 276 813.588 280Z" class="gr-axis"/>
+    <path d="M607 327.588 607 65.6667 609 65.6667 609 327.588ZM604 67 608 59 612 67Z" class="gr-axis"/>
+    <path d="M608 274.5C608 273.672 608.448 273 609 273 609.552 273 610 273.672 610 274.5 610 275.328 609.552 276 609 276 608.448 276 608 275.328 608 274.5Z" fill-rule="evenodd" class="gr-axis"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(805.327 169)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(707.081 150)" class="gr-text">🍊</text>
+    <path d="M0 0 229.992 174.182" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 582.5 295.682)" class="gr-stroke"/>
+    <path d="M782.5 146.5 809.029 181.53" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M711.5 152.5 731.684 179.151" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M1.20747-1.59437 162.179 120.315 159.764 123.504-1.20747 1.59437ZM162.999 115.919 175.321 132.777 155.755 125.485Z" fill="#EE0000" transform="matrix(1 0 0 -1 609 279.777)"/>
+    <path d="M1.20747-1.59437 112.194 82.4598 109.779 85.6485-1.20747 1.59437ZM113.014 78.0635 125.336 94.9214 105.769 87.6297Z" fill="#FFC000" transform="matrix(1 0 0 -1 605 271.921)"/>
+    <path d="M959.5 275.5 1220.66 275.5" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M1.20747-1.59437 162.179 120.315 159.764 123.504-1.20747 1.59437ZM162.999 115.919 175.321 132.777 155.755 125.485Z" fill="#EE0000" transform="matrix(0.79779 0.602935 0.602935 -0.79779 970.574 279.446)"/>
+    <path d="M1.20747-1.59437 112.194 82.4598 109.779 85.6485-1.20747 1.59437ZM113.014 78.0635 125.336 94.9214 105.769 87.6297Z" fill="#FFC000" transform="matrix(0.79779 0.602935 0.602935 -0.79779 972.379 270.928)"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(1186.67 318)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(1120.83 259)" class="gr-text">🍊</text>
+    <path d="M475 183.5 494 183.5 494 174 513 193 494 212 494 202.5 475 202.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M553 630 814.922 630 814.922 632 553 632ZM813.588 627 821.588 631 813.588 635Z" class="gr-axis"/>
+    <path d="M607 682.588 607 420.667 609 420.667 609 682.588ZM604 422 608 414 612 422Z" class="gr-axis"/>
+    <path d="M608 629.5C608 628.672 608.448 628 609 628 609.552 628 610 628.672 610 629.5 610 630.328 609.552 631 609 631 608.448 631 608 630.328 608 629.5Z" fill-rule="evenodd" class="gr-axis"/>
+    <path d="M0 0 125.598 95.1201" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 582.5 601.62)" class="gr-stroke"/>
+    <path d="M572.5 583.5 643.366 677.072" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 0 170.58 129.187" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 636.5 666.687)" class="gr-stroke"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(650.534 693)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(549.621 571)" class="gr-text">🍊</text>
+    <path d="M97 630 358.922 630 358.922 632 97 632ZM357.588 627 365.588 631 357.588 635Z" class="gr-axis"/>
+    <path d="M151 682.588 151 420.667 153 420.667 153 682.588ZM148 422 152 414 156 422Z" class="gr-axis"/>
+    <path d="M0.858137-1.80654 185.376 85.8424 183.66 89.4555-0.858137 1.80654ZM185.286 81.3712 200.777 95.3722 180.137 92.2104Z" fill="#EE0000" transform="matrix(1 0 0 -1 152 630.372)"/>
+    <path d="M1.55705-1.25523 92.4947 111.549 89.3806 114.059-1.55705 1.25523ZM94.3536 107.481 102.235 126.817 85.0113 115.012Z" fill="#FFC000" transform="matrix(1 0 0 -1 152 630.817)"/>
+    <path d="M152 629.5C152 628.672 152.672 628 153.5 628 154.328 628 155 628.672 155 629.5 155 630.328 154.328 631 153.5 631 152.672 631 152 630.328 152 629.5Z" fill-rule="evenodd" class="gr-axis"/>
+    <path d="M0 0 125.598 95.1201" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 126.5 601.62)" class="gr-stroke"/>
+    <path d="M116.5 583.5 187.366 677.072" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 0 170.58 129.187" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 180.5 666.687)" class="gr-stroke"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(251.417 504)" class="gr-text">🍊</text>
+    <path d="M606.971 632.605 590.273 610.557 593.462 608.142 610.159 630.19ZM588.292 614.566 581 595 597.858 607.321Z" fill="#FFC000"/>
+    <path d="M610.594 629.793 625.854 649.942 622.665 652.356 607.406 632.207ZM627.835 645.932 635.127 665.498 618.269 653.177Z" fill="#EE0000"/>
+    <path d="M1050.86 629.633 1168.23 629.927" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="2.66667 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M1111.51 631.754 1083.85 631.685 1083.86 627.685 1111.52 627.754ZM1085.84 635.69 1065.85 629.64 1085.87 623.69Z" fill="#FFC000"/>
+    <path d="M1112.07 627.019 1137.35 627.083 1137.34 631.083 1112.06 631.019ZM1135.36 623.078 1155.34 629.128 1135.33 635.078Z" fill="#EE0000"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(1139.48 612)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(1013.64 612)" class="gr-text">🍊</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(357.757 536)" class="gr-text">🍎</text>
+    <path d="M475 537.5 494 537.5 494 528 513 547 494 566 494 556.5 475 556.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M953.75 577 940.553 564.75 946.678 564.75C943.28 543.116 931.407 528 917.813 528L930.062 528C943.657 528 955.53 543.116 958.928 564.75L965.053 564.75Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M923.938 529.045C910.134 533.808 900.25 553.818 900.25 577L888 577C888 549.938 901.347 528 917.812 528 919.871 528 921.923 528.35 923.938 529.045Z" fill="#8F8F8F" fill-rule="evenodd"/>
+    <rect x="7.50005" y="14.5001" width="1267" height="698" stroke="#B2B2B2" stroke-width="0.333333" stroke-miterlimit="8" fill="none"/>
+    <text font-family="Yu Gothic,Yu Gothic_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 51)" class="gr-text">Analogy</text>
+    <text font-family="Yu Gothic,Yu Gothic_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 397)" class="gr-text">Contrast</text>
+  </g>
+</svg>

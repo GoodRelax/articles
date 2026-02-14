@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1269" height="699" xml:space="preserve" overflow="hidden">
+  <rect class="gr-bg" x="0" y="0" width="1269" height="699"/>
+  <defs>
+    <linearGradient x1="968.578" y1="107.719" x2="1057.42" y2="385.281" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill0">
+      <stop offset="0" stop-color="#4D4D4D"/>
+      <stop offset="0.02" stop-color="#4E4E4E"/>
+      <stop offset="0.04" stop-color="#505050"/>
+      <stop offset="0.06" stop-color="#525252"/>
+      <stop offset="0.08" stop-color="#545454"/>
+      <stop offset="0.1" stop-color="#565656"/>
+      <stop offset="0.12" stop-color="#575757"/>
+      <stop offset="0.14" stop-color="#595959"/>
+      <stop offset="0.16" stop-color="#5B5B5B"/>
+      <stop offset="0.18" stop-color="#5C5C5C"/>
+      <stop offset="0.2" stop-color="#5E5E5E"/>
+      <stop offset="0.22" stop-color="#5F5F5F"/>
+      <stop offset="0.24" stop-color="#616161"/>
+      <stop offset="0.26" stop-color="#636363"/>
+      <stop offset="0.28" stop-color="#646464"/>
+      <stop offset="0.3" stop-color="#656565"/>
+      <stop offset="0.32" stop-color="#676767"/>
+      <stop offset="0.34" stop-color="#686868"/>
+      <stop offset="0.36" stop-color="#696969"/>
+      <stop offset="0.38" stop-color="#6B6B6B"/>
+      <stop offset="0.4" stop-color="#6C6C6C"/>
+      <stop offset="0.42" stop-color="#6D6D6D"/>
+      <stop offset="0.44" stop-color="#6E6E6E"/>
+      <stop offset="0.46" stop-color="#6F6F6F"/>
+      <stop offset="0.48" stop-color="#717171"/>
+      <stop offset="0.5" stop-color="#727272"/>
+      <stop offset="0.52" stop-color="#737373"/>
+      <stop offset="0.54" stop-color="#747474"/>
+      <stop offset="0.56" stop-color="#757575"/>
+      <stop offset="0.58" stop-color="#757575"/>
+      <stop offset="0.6" stop-color="#767676"/>
+      <stop offset="0.62" stop-color="#777777"/>
+      <stop offset="0.64" stop-color="#787878"/>
+      <stop offset="0.66" stop-color="#797979"/>
+      <stop offset="0.68" stop-color="#797979"/>
+      <stop offset="0.7" stop-color="#7A7A7A"/>
+      <stop offset="0.72" stop-color="#7B7B7B"/>
+      <stop offset="0.74" stop-color="#7B7B7B"/>
+      <stop offset="0.76" stop-color="#7C7C7C"/>
+      <stop offset="0.78" stop-color="#7D7D7D"/>
+      <stop offset="0.8" stop-color="#7D7D7D"/>
+      <stop offset="0.82" stop-color="#7D7D7D"/>
+      <stop offset="0.84" stop-color="#7E7E7E"/>
+      <stop offset="0.86" stop-color="#7E7E7E"/>
+      <stop offset="0.88" stop-color="#7F7F7F"/>
+      <stop offset="0.9" stop-color="#7F7F7F"/>
+      <stop offset="0.92" stop-color="#7F7F7F"/>
+      <stop offset="0.94" stop-color="#7F7F7F"/>
+      <stop offset="0.96" stop-color="#7F7F7F"/>
+      <stop offset="0.98" stop-color="#7F7F7F"/>
+      <stop offset="1" stop-color="#808080"/>
+    </linearGradient>
+    <linearGradient x1="218.578" y1="452.719" x2="307.422" y2="730.281" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill1">
+      <stop offset="0" stop-color="#4D4D4D"/>
+      <stop offset="0.02" stop-color="#4E4E4E"/>
+      <stop offset="0.04" stop-color="#505050"/>
+      <stop offset="0.06" stop-color="#525252"/>
+      <stop offset="0.08" stop-color="#545454"/>
+      <stop offset="0.1" stop-color="#565656"/>
+      <stop offset="0.12" stop-color="#575757"/>
+      <stop offset="0.14" stop-color="#595959"/>
+      <stop offset="0.16" stop-color="#5B5B5B"/>
+      <stop offset="0.18" stop-color="#5C5C5C"/>
+      <stop offset="0.2" stop-color="#5E5E5E"/>
+      <stop offset="0.22" stop-color="#5F5F5F"/>
+      <stop offset="0.24" stop-color="#616161"/>
+      <stop offset="0.26" stop-color="#636363"/>
+      <stop offset="0.28" stop-color="#646464"/>
+      <stop offset="0.3" stop-color="#656565"/>
+      <stop offset="0.32" stop-color="#676767"/>
+      <stop offset="0.34" stop-color="#686868"/>
+      <stop offset="0.36" stop-color="#696969"/>
+      <stop offset="0.38" stop-color="#6B6B6B"/>
+      <stop offset="0.4" stop-color="#6C6C6C"/>
+      <stop offset="0.42" stop-color="#6D6D6D"/>
+      <stop offset="0.44" stop-color="#6E6E6E"/>
+      <stop offset="0.46" stop-color="#6F6F6F"/>
+      <stop offset="0.48" stop-color="#717171"/>
+      <stop offset="0.5" stop-color="#727272"/>
+      <stop offset="0.52" stop-color="#737373"/>
+      <stop offset="0.54" stop-color="#747474"/>
+      <stop offset="0.56" stop-color="#757575"/>
+      <stop offset="0.58" stop-color="#757575"/>
+      <stop offset="0.6" stop-color="#767676"/>
+      <stop offset="0.62" stop-color="#777777"/>
+      <stop offset="0.64" stop-color="#787878"/>
+      <stop offset="0.66" stop-color="#797979"/>
+      <stop offset="0.68" stop-color="#797979"/>
+      <stop offset="0.7" stop-color="#7A7A7A"/>
+      <stop offset="0.72" stop-color="#7B7B7B"/>
+      <stop offset="0.74" stop-color="#7B7B7B"/>
+      <stop offset="0.76" stop-color="#7C7C7C"/>
+      <stop offset="0.78" stop-color="#7D7D7D"/>
+      <stop offset="0.8" stop-color="#7D7D7D"/>
+      <stop offset="0.82" stop-color="#7D7D7D"/>
+      <stop offset="0.84" stop-color="#7E7E7E"/>
+      <stop offset="0.86" stop-color="#7E7E7E"/>
+      <stop offset="0.88" stop-color="#7F7F7F"/>
+      <stop offset="0.9" stop-color="#7F7F7F"/>
+      <stop offset="0.92" stop-color="#7F7F7F"/>
+      <stop offset="0.94" stop-color="#7F7F7F"/>
+      <stop offset="0.96" stop-color="#7F7F7F"/>
+      <stop offset="0.98" stop-color="#7F7F7F"/>
+      <stop offset="1" stop-color="#808080"/>
+    </linearGradient>
+    <style>.gr-bg { fill: #ffffff; }
+  .gr-axis { fill: #333333; }
+  .gr-stroke { stroke: #333333; }
+  .gr-text { fill: #333333; }
+  @media (prefers-color-scheme: dark) {
+    .gr-bg { fill: #1a1a1a; }
+    .gr-axis { fill: #e0e0e0; }
+    .gr-stroke { stroke: #e0e0e0; }
+    .gr-text { fill: #e0e0e0; }
+  }</style>
+  </defs>
+  <g transform="translate(-6 -14)">
+    <path d="M356 212.5 376 212.5 376 203 395 222 376 241 376 231.5 356 231.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M731 212.5 751 212.5 751 203 770 222 751 241 751 231.5 731 231.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M774 323 911.649 170 1252 170 1114.35 323Z" fill="url(#fill0)" fill-rule="evenodd"/>
+    <path d="M920 220 1141.03 220 1141.03 222 920 222ZM1139.7 217 1147.7 221 1139.7 225Z" class="gr-axis"/>
+    <path d="M1-4.81287e-07 1.0001 211.471-0.999898 211.471-1 4.81287e-07ZM4.0001 210.138 0.000104987 218.138-3.9999 210.138Z" transform="matrix(1 0 0 -1 967 253.138)" class="gr-axis"/>
+    <path d="M0.858137-1.80654 154.809 71.3226 153.093 74.9357-0.858137 1.80654ZM154.719 66.8514 170.21 80.8524 149.57 77.6907Z" fill="#EE0000" transform="matrix(1 0 0 -1 967 218.852)"/>
+    <path d="M1.79492-0.882197 40.0579 76.9675 36.468 78.7319-1.79492 0.882197ZM42.7655 73.4082 46.2027 94.004 31.996 78.7014Z" fill="#FFC000" transform="matrix(1 0 0 -1 967 219.004)"/>
+    <path d="M967 217.5C967 216.672 967.448 216 968 216 968.552 216 969 216.672 969 217.5 969 218.328 968.552 219 968 219 967.448 219 967 218.328 967 217.5Z" fill-rule="evenodd" class="gr-axis"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="48" transform="translate(1139.41 154)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(1013.43 128)" class="gr-text">🍊</text>
+    <path d="M0.740107-0.672489 92.1717 99.9524 90.6915 101.297-0.740107 0.672489ZM93.4954 96.9481 95.9149 105.559 87.5745 102.328Z" transform="matrix(-1 0 0 1 991.915 192)" class="gr-axis"/>
+    <path d="M1136 141 1136 271.85" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="2 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M1013 130 1013 250.446" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="2 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 964 225)" class="gr-axis"/>
+    <path d="M560 102 560 331.371 558 331.371 558 102ZM563 330.038 559 338.038 555 330.038Z" class="gr-axis"/>
+    <path d="M427 220 683.502 220 683.502 222 427 222ZM682.169 217 690.169 221 682.169 225Z" class="gr-axis"/>
+    <path d="M608 246C608 238.82 615.835 233 625.5 233 635.165 233 643 238.82 643 246 643 253.18 635.165 259 625.5 259 615.835 259 608 253.18 608 246Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 3.07758C-9.42613e-16 1.37788 3.31483 -3.91818e-16 7.40388 -7.83635e-16 10.7572 -2.61212e-16 14.1105-0.368007 17.4638-1.10402 15.6931 0.289846 14.8078 1.68371 14.8078 3.07758 14.8078 4.77729 11.4929 6.15517 7.40388 6.15517 3.31483 6.15517 0 4.77729 0 3.07758Z" fill="#777777" fill-rule="evenodd" transform="matrix(0.955885 0.29374 0.29374 -0.955885 608.415 234.937)"/>
+    <path d="M648 298.5C648 287.178 655.611 278 665 278 674.389 278 682 287.178 682 298.5 682 309.822 674.389 319 665 319 655.611 319 648 309.822 648 298.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M632 298.5C632 287.178 639.387 278 648.5 278 657.613 278 665 287.178 665 298.5 665 309.822 657.613 319 648.5 319 639.387 319 632 309.822 632 298.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 4.96226C-1.51984e-15 2.22168 5.34473 -6.31762e-16 11.9378-1.26352e-15 17.3445 -4.21174e-16 22.7513-0.593369 28.158-1.78011 25.3031 0.467344 23.8756 2.7148 23.8756 4.96226 23.8756 7.70284 18.5309 9.92451 11.9378 9.92451 5.34473 9.92451 0 7.70284 0 4.96226Z" fill="#777777" fill-rule="evenodd" transform="matrix(0.955885 0.29374 0.29374 -0.955885 635.577 280.391)"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 555 225)" class="gr-axis"/>
+    <path d="M559.308 219.048 596.063 230.931 595.448 232.834 558.692 220.952ZM595.718 227.666 602.099 233.933 593.257 235.278Z" fill="#333333"/>
+    <path d="M560.62 220.216 627.224 272.87 625.984 274.439 559.38 221.784ZM628.039 269.689 631.834 277.789 623.078 275.965Z" fill="#333333"/>
+    <path d="M251 249C251 236.297 261.297 226 274 226 286.703 226 297 236.297 297 249 297 261.703 286.703 272 274 272 261.297 272 251 261.703 251 249Z" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M204 202.5C204 196.701 209.373 192 216 192 222.627 192 228 196.701 228 202.5 228 208.299 222.627 213 216 213 209.373 213 204 208.299 204 202.5Z" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 127 225)" class="gr-axis"/>
+    <path d="M131 202 179.034 202 179.034 204 131 204ZM177.7 199 185.7 203 177.7 207Z" fill="#333333"/>
+    <path d="M131 237 221.636 237 221.636 239 131 239ZM220.303 234 228.303 238 220.303 242Z" fill="#333333"/>
+    <path d="M498 558.5 518 558.5 518 549 537 568 518 587 518 577.5 498 577.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M875 558.5 895 558.5 895 549 914 568 895 587 895 577.5 875 577.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M24 668 161.649 515 502 515 364.351 668Z" fill="url(#fill1)" fill-rule="evenodd"/>
+    <path d="M170 565 391.032 565 391.032 567 170 567ZM389.698 562 397.698 566 389.698 570Z" class="gr-axis"/>
+    <path d="M1-4.81287e-07 1.0001 211.471-0.999898 211.471-1 4.81287e-07ZM4.0001 210.138 0.000104987 218.138-3.9999 210.138Z" transform="matrix(1 0 0 -1 217 598.138)" class="gr-axis"/>
+    <path d="M0.858137-1.80654 154.809 71.3226 153.093 74.9357-0.858137 1.80654ZM154.719 66.8514 170.21 80.8524 149.57 77.6907Z" fill="#EE0000" transform="matrix(1 0 0 -1 217 563.852)"/>
+    <path d="M1.79492-0.882197 40.0579 76.9675 36.468 78.7319-1.79492 0.882197ZM42.7655 73.4082 46.2027 94.004 31.996 78.7014Z" fill="#FFC000" transform="matrix(1 0 0 -1 217 564.004)"/>
+    <path d="M217 563C217 562.448 217.448 562 218 562 218.552 562 219 562.448 219 563 219 563.552 218.552 564 218 564 217.448 564 217 563.552 217 563Z" fill-rule="evenodd" class="gr-axis"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="48" transform="translate(389.178 499)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(263.193 473)" class="gr-text">🍊</text>
+    <path d="M0.740107-0.672489 92.1717 99.9524 90.6915 101.297-0.740107 0.672489ZM93.4954 96.9481 95.9149 105.559 87.5745 102.328Z" transform="matrix(-1 0 0 1 240.915 538)" class="gr-axis"/>
+    <path d="M386 486 386 616.85" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="2 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M263 475 263 595.446" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="2 2" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 214 570)" class="gr-axis"/>
+    <path d="M702 447 702 676.371 700 676.371 700 447ZM705 675.038 701 683.038 697 675.038Z" class="gr-axis"/>
+    <path d="M569 565 825.502 565 825.502 567 569 567ZM824.169 562 832.169 566 824.169 570Z" class="gr-axis"/>
+    <path d="M750 591C750 583.82 757.835 578 767.5 578 777.165 578 785 583.82 785 591 785 598.18 777.165 604 767.5 604 757.835 604 750 598.18 750 591Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 3.07758C-9.42613e-16 1.37788 3.31483 -3.91818e-16 7.40388 -7.83635e-16 10.7572 -2.61212e-16 14.1105-0.368007 17.4638-1.10402 15.6931 0.289846 14.8078 1.68371 14.8078 3.07758 14.8078 4.77729 11.4929 6.15517 7.40388 6.15517 3.31483 6.15517 0 4.77729 0 3.07758Z" fill="#777777" fill-rule="evenodd" transform="matrix(0.955885 0.29374 0.29374 -0.955885 750.236 580.137)"/>
+    <path d="M790 643.5C790 632.178 797.611 623 807 623 816.389 623 824 632.178 824 643.5 824 654.822 816.389 664 807 664 797.611 664 790 654.822 790 643.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M773 643.5C773 632.178 780.611 623 790 623 799.389 623 807 632.178 807 643.5 807 654.822 799.389 664 790 664 780.611 664 773 654.822 773 643.5Z" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 4.96226C-1.51984e-15 2.22168 5.34473 -6.31762e-16 11.9378-1.26352e-15 17.3445 -4.21174e-16 22.7513-0.593369 28.158-1.78011 25.3031 0.467344 23.8756 2.7148 23.8756 4.96226 23.8756 7.70284 18.5309 9.92451 11.9378 9.92451 5.34473 9.92451 0 7.70284 0 4.96226Z" fill="#777777" fill-rule="evenodd" transform="matrix(0.955885 0.29374 0.29374 -0.955885 777.397 625.591)"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 697 570)" class="gr-axis"/>
+    <path d="M701.308 564.048 738.063 575.931 737.448 577.834 700.692 565.952ZM737.718 572.666 744.099 578.933 735.257 580.278Z" fill="#333333"/>
+    <path d="M702.62 565.216 769.224 617.87 767.984 619.439 701.38 566.784ZM770.039 614.689 773.834 622.789 765.078 620.965Z" fill="#333333"/>
+    <path d="M1029 565 1224.29 565 1224.29 567 1029 567ZM1222.96 562 1230.96 566 1222.96 570Z" class="gr-axis"/>
+    <path d="M1179 594.5C1179 582.074 1189.07 572 1201.5 572 1213.93 572 1224 582.074 1224 594.5 1224 606.926 1213.93 617 1201.5 617 1189.07 617 1179 606.926 1179 594.5Z" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M1132 547.5C1132 541.701 1137.37 537 1144 537 1150.63 537 1156 541.701 1156 547.5 1156 553.299 1150.63 558 1144 558 1137.37 558 1132 553.299 1132 547.5Z" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" class="gr-stroke"/>
+    <path d="M0 4C-5.09253e-16 1.79086 1.79086 -5.09253e-16 4-1.01851e-15 6.20914-2.03701e-15 8 1.79086 8 4 8 6.20914 6.20914 8 4 8 1.79086 8-2.54627e-15 6.20914 0 4Z" fill-rule="evenodd" transform="matrix(1 0 0 -1 1055 570)" class="gr-axis"/>
+    <path d="M1059 547 1107.03 547 1107.03 549 1059 549ZM1105.7 544 1113.7 548 1105.7 552Z" fill="#333333"/>
+    <path d="M1059 583 1149.64 583 1149.64 585 1059 585ZM1148.3 580 1156.3 584 1148.3 588Z" fill="#333333"/>
+    <rect x="7.50005" y="14.5001" width="1267" height="698" stroke="#B2B2B2" stroke-width="0.333333" stroke-miterlimit="8" fill="none"/>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 372)" class="gr-text">Abstract</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="27" transform="translate(22.7209 58)" class="gr-text">Concretize</text>
+    <path d="M101 220 296.293 220 296.293 222 101 222ZM294.959 217 302.959 221 294.959 225Z" class="gr-axis"/>
+  </g>
+</svg>
