@@ -249,7 +249,7 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 <object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
-PCA の第1主成分は「分散が最大の方向」= その集団の情報を最も多く保つベクトル。
+PCA の第1主成分は「分散が最大の方向」= その集団の情報を最も多く保つベクトル。  
 みんなを一番よく代表する矢印、つまり**象徴**だね。
 
 ---
