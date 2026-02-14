@@ -81,8 +81,8 @@ Embedding (埋め込み) ってやつ。
 
 詳しくは 3Blue1Brown の動画を参照されたし。名作ばかりだ。
 
-[Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)  
-[GPTとは何か Transformerの視覚化 | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
+[Transformers, the tech behind LLMs - Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)  
+[GPTとは何か Transformerの視覚化 - Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
 
 ---
 
@@ -119,7 +119,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-![analogy-and-contrast](./assets/images/analogy-and-contrast.svg)
+<object data="./assets/images/analogy-and-contrast.svg" type="image/svg+xml" style="width:100%; max-width:1269px;"></object>
 
 数式だと、線形写像 Ta/Tc によって
 
@@ -143,7 +143,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-![induction-and-deduction](./assets/images/induction-and-deduction.svg)
+<object data="./assets/images/induction-and-deduction.svg" type="image/svg+xml" style="width:100%; max-width:1190px;"></object>
 
 数式だと関数を使って
 
@@ -167,7 +167,7 @@ Embedding (埋め込み) ってやつ。
 
 図にするとこうなる。
 
-![concretize-and-abstract](./assets/images/concretize-and-abstract.svg)
+<object data="./assets/images/concretize-and-abstract.svg" type="image/svg+xml" style="width:100%; max-width:1269px;"></object>
 
 数式だと、例えばこう書ける。
 
@@ -190,7 +190,7 @@ PCA? 何それおいしいの？ って人もきっと経験したことがあ�
 50問ぐらいのアンケートに答えたら、直感的⇔論理的 vs 外交的⇔内向的 とかのマトリクスに性格分類する奴。  
 50問のアンケートは 50次元ベクトル。 それを 2次元に落として「性格マップ」にする。
 
-![personality_profiling](./assets/images/personality_profiling_ja.svg)
+<object data="./assets/images/personality_profiling_ja.svg" type="image/svg+xml" style="width:100%; max-width:880px;"></object>
 
 数式で書くとこう。
 
@@ -208,8 +208,8 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 詳しくはこの動画がおすすめ。
 
-[Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)  
-[Chapter 16 抽象ベクトル空間 | 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
+[Abstract vector spaces - Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)  
+[Chapter 16 抽象ベクトル空間 - 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
 
 ---
 
@@ -227,7 +227,8 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 一番大事なベクトル = PCA の **主成分ベクトル** ってわけ。
 
-![symbol](./assets/images/symbol.svg)  
+<object data="./assets/images/symbol.svg" type="image/svg+xml" style="width:100%; max-width:1092px;"></object>
+
 ※ 厳密には PCA の第1主成分は「分散が最大の方向」であり、「最も意味がある方向」とは限らないが、数学的メタファーってことで。
 
 ---
@@ -248,7 +249,7 @@ $$
 
 ## それが**Null（無）**
 
-![ultimate-symbol](./assets/images/ultimate-symbol.svg)
+<object data="./assets/images/ultimate-symbol.svg" type="image/svg+xml" style="width:100%; max-width:1215px;"></object>
 
 森羅万象を抽象化し続けると最後は**Null** (**無**)になる
 
