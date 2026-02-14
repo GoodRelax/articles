@@ -53,12 +53,12 @@ tags: [idea, poem, LLM, mathematics, philosophy]
 
 ## AIも同じことをしている
 
-AIは**言葉を無限次元のベクトルで理解**する。
+AIは**言葉を超高次元のベクトルで理解**する。
 
 どういうことかって？ ここもちゃんと「**分けて理解**」しよう。
 
 - 言葉を： 物事や概念にそれぞれIDを振って
-- 無限次元の： 100万個とか実質無限個の添え字をつけられる
+- 超高次元の： 数千〜数万個の添え字がつく
 - ベクトルで： 向きと長さの矢印に変換可能な配列形式のデータとして
 - 理解する： いい感じに整理整頓する
 
@@ -71,6 +71,8 @@ AIは**言葉を無限次元のベクトルで理解**する。
  dirOfApple = GetDirection(apple)  
  lenOfApple = GetLength(apple)
 </pre>
+
+- 実際のLLMでは数千〜数万 次元/個の添え字。 人間の感覚からすれば果てしない組み合わせ。
 
 絵で表すと、こうなる。
 
@@ -162,13 +164,14 @@ Embedding (埋め込み) ってやつ。
 
 数式だと関数を使って
 
-- $ 帰納 : \text{Extraction}(\vec{past}) \Rightarrow \vec{law} \mid \vec{law} = \vec{facts} - \vec{noise}$
+- $ 帰納 : \text{Extraction}(\vec{fact_1}, \vec{fact_2}, \dots) \Rightarrow \vec{law} \mid \vec{law} = \vec{facts} - \frac{\sum \vec{noise}}{n} $
 
-- $ 演繹 : \text{Superposition}(\vec{object}) \Rightarrow \vec{future} \mid \vec{future} = \vec{object} + \vec{law}$
+- $ 演繹 : \text{Superposition}(\vec{object}) \Rightarrow \vec{future} \mid \vec{future} = \vec{object} + \vec{law} $
 
 と表現できる。
 
----
+- 帰納は推測。複数の事実を重ねてブレを相殺し、隠れた法則を浮かび上がらせる。
+- 演繹は確定。法則は違うことなく未来に当てはまる。
 
 ### 具体と抽象は「情報量の増加減」である
 
@@ -246,12 +249,32 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 <object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
-- 厳密には PCA の第1主成分は「分散が最大の方向」であり、  
-  「最も意味がある方向」とは限らないが、数学的メタファーってことで。
+- PCA の第1主成分は「分散が最大の方向」= その集団の情報を最も多く保つベクトル。
+- みんなを一番よく代表する矢印、つまり**象徴**だね。
 
 ---
 
 ### 抽象化の極限は？
+
+抽象化(Abstract)は、いい感じの本質に向かって情報を減らすこと。
+
+- 立体の情報をそぎ落として面にする
+- 面の情報をそぎ落として線にする
+- 線の情報をそぎ落として点にする
+  → $ \mathbb{R}^0 $ にはまだ「一点が存在する」という情報がある。
+- その存在すらそぎ落とすと...?
+
+$$
+    \mathbb{R}^3 \to \mathbb{R}^2 \to \mathbb{R}^1 \to \mathbb{R}^0 = \{*\} \to \emptyset = \text{Null}
+$$
+
+最後に残るのは **何もない空間**
+
+## それが**Null（無）**
+
+### 抽象化の極限は？
+
+抽象化(Abstract)は、いい感じの本質に向かって情報量を減らすこと
 
 - 立体の情報をそぎ落として面にする
 - 面の情報をそぎ落として線にする
@@ -260,7 +283,7 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 - 点の情報をもそぎ落とすと...?
 
 $$
-    H( \mathbb{R}^3 ) > H( \mathbb{R}^2 ) > H( \mathbb{R}^1 ) > H( \mathbb{R}^0 ) = 0 \quad \gg \quad \emptyset = \text{Null}
+    H( \mathbb{R}^3 ) > H( \mathbb{R}^2 ) > H( \mathbb{R}^1 ) > H( \mathbb{R}^0 )  > H( \emptyset )  = \text{Null}
 $$
 
 最後に残るのは **何もない空間**
