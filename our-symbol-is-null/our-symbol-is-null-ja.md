@@ -81,15 +81,15 @@ lenOfApple = GetLength(apple)
 
 絵で表すと、こうなる。
 
-![embedding](.\assets\images\embedding.svg)
+![embedding](./assets/images/embedding.svg)
 
 ChatGPT や Gemini のような LLM(Large Language Model) は、だいたいこの仕組み。
 Embedding (埋め込み) ってやつ。
 
 詳しくは 3Blue1Brown の動画を参照されたし。名作ばかりだ。
 
-![Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
-![GPTとは何か Transformerの視覚化 | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
+[Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+[GPTとは何か Transformerの視覚化 | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
 
 ---
 
@@ -126,7 +126,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-![analogy-and-contrast](.\assets\images\analogy-and-contrast.svg)
+![analogy-and-contrast](./assets/images/analogy-and-contrast.svg)
 
 数式だと、線形写像 Ta/Tc によって
 
@@ -150,7 +150,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-![induction-and-deduction](.\assets\images\induction-and-deduction.svg)
+![induction-and-deduction](./assets/images/induction-and-deduction.svg)
 
 数式だと関数を使って
 
@@ -174,7 +174,7 @@ Embedding (埋め込み) ってやつ。
 
 図にするとこうなる。
 
-![concretize-and-abstract](.\assets\images\concretize-and-abstract.svg)
+![concretize-and-abstract](./assets/images/concretize-and-abstract.svg)
 
 数式だと、例えばこう書ける。
 
@@ -188,7 +188,7 @@ Embedding (埋め込み) ってやつ。
 
 ## いい感じの本質
 
-情報量を減らして抽象化する際、闇雲に情報を減らしていくと、よくわら分からんことになる。  
+情報量を減らして抽象化する際、闇雲に情報を減らしていくと、よく分からんことになる。  
 おっさんから髭を取って皺を取ったら、少年になってしまう。 本質的な情報だけを抽出したい。
 
 そんなときに使えるのが PCA（Principal Component Analysis / 主成分分析）。  
@@ -197,7 +197,7 @@ PCA? 何それおいしいの？ って人もきっと経験したことがあ�
 50問ぐらいのアンケートに答えたら、直感的⇔論理的 vs 外交的⇔内向的 とかのマトリクスに性格分類する奴。  
 50問のアンケートは 50次元ベクトル。 それを 2次元に落として「性格マップ」にする。
 
-![personality_profiling](.\assets\images\personality_profiling_ja.svg)
+![personality_profiling](./assets/images/personality_profiling_ja.svg)
 
 数式で書くとこう。
 
@@ -215,8 +215,8 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 詳しくはこの動画がおすすめ。
 
-![Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
-![Chapter 16 抽象ベクトル空間 | 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
+[Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
+[Chapter 16 抽象ベクトル空間 | 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
 
 ---
 
@@ -234,16 +234,18 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 一番大事なベクトル = PCA の **主成分ベクトル** ってわけ。
 
-![symbol](.\assets\images\symbol.svg)
+![symbol](./assets/images/symbol.svg)  
+※ 厳密には PCA の第1主成分は「分散が最大の方向」であり、「最も意味がある方向」とは限らないが、数学的メタファーってことで。
 
 ---
 
-## では、抽象化の極限は？
+## 抽象化の極限は？
 
 - 立体の情報をそぎ落として面にする
 - 面の情報をそぎ落として線にする
 - 線の情報をそぎ落として点にする
-- 点の情報をそぎ落とすと...?
+  → $ \mathbb{R}^0 $ の点には、座標という情報が残っている。
+- 点の情報をもそぎ落とすと...?
 
 $$
     H( \mathbb{R}^3 ) > H( \mathbb{R}^2 ) > H( \mathbb{R}^1 ) > H( \mathbb{R}^0 ) = 0 \quad \gg \quad \emptyset = \text{Null}
@@ -253,7 +255,7 @@ $$
 
 ## それが**Null（無）**
 
-![ultimate-symbol](.\assets\images\ultimate-symbol.svg)
+![ultimate-symbol](./assets/images/ultimate-symbol.svg)
 
 森羅万象を抽象化し続けると最後は**Null** (**無**)になる
 
