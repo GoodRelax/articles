@@ -6,12 +6,9 @@ lang: ja
 key: our-symbol-is-null
 tags: [idea, poem, LLM, mathematics, philosophy]
 ---
-
-## 目次
-
-- Table of Contents
-  {:toc}
-
+## Index
+* Table of Contents
+{:toc}
 ---
 
 ## **みんなの象徴はNull** である
