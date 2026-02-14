@@ -88,7 +88,7 @@ Embedding (埋め込み) ってやつ。
 
 詳しくは 3Blue1Brown の動画を参照されたし。名作ばかりだ。
 
-[Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+[Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)  
 [GPTとは何か Transformerの視覚化 | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
 
 ---
@@ -215,7 +215,7 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 詳しくはこの動画がおすすめ。
 
-[Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
+[Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)  
 [Chapter 16 抽象ベクトル空間 | 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
 
 ---
