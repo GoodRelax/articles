@@ -57,3 +57,9 @@ pre, code {
     color: #dcdcdc;
   }
 }
+
+object[type="image/svg+xml"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
