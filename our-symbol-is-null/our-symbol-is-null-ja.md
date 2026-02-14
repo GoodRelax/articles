@@ -74,7 +74,7 @@ lenOfApple = GetLength(apple)
 
 絵で表すと、こうなる。
 
-<object data="./assets/images/embedding.svg" type="image/svg+xml" style="width:100%; max-width:396px;"></object>
+<object data="./assets/images/embedding.svg" type="image/svg+xml" width="100%"></object>
 
 ChatGPT や Gemini のような LLM(Large Language Model) は、だいたいこの仕組み。
 Embedding (埋め込み) ってやつ。
@@ -119,7 +119,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-<object data="./assets/images/analogy-and-contrast.svg" type="image/svg+xml" style="width:100%; max-width:1269px;"></object>
+<object data="./assets/images/analogy-and-contrast.svg" type="image/svg+xml" width="100%"></object>
 
 数式だと、線形写像 Ta/Tc によって
 
@@ -143,7 +143,7 @@ Embedding (埋め込み) ってやつ。
 
 ベクトル図にするとこうなる。
 
-<object data="./assets/images/induction-and-deduction.svg" type="image/svg+xml" style="width:100%; max-width:1190px;"></object>
+<object data="./assets/images/induction-and-deduction.svg" type="image/svg+xml" width="100%"></object>
 
 数式だと関数を使って
 
@@ -167,7 +167,7 @@ Embedding (埋め込み) ってやつ。
 
 図にするとこうなる。
 
-<object data="./assets/images/concretize-and-abstract.svg" type="image/svg+xml" style="width:100%; max-width:1269px;"></object>
+<object data="./assets/images/concretize-and-abstract.svg" type="image/svg+xml" width="100%"></object>
 
 数式だと、例えばこう書ける。
 
@@ -190,7 +190,7 @@ PCA? 何それおいしいの？ って人もきっと経験したことがあ�
 50問ぐらいのアンケートに答えたら、直感的⇔論理的 vs 外交的⇔内向的 とかのマトリクスに性格分類する奴。  
 50問のアンケートは 50次元ベクトル。 それを 2次元に落として「性格マップ」にする。
 
-<object data="./assets/images/personality_profiling_ja.svg" type="image/svg+xml" style="width:100%; max-width:880px;"></object>
+<object data="./assets/images/personality_profiling_ja.svg" type="image/svg+xml" width="100%"></object>
 
 数式で書くとこう。
 
@@ -227,7 +227,7 @@ $ k = 2 $ にすれば 2次元のマトリクスになる
 
 一番大事なベクトル = PCA の **主成分ベクトル** ってわけ。
 
-<object data="./assets/images/symbol.svg" type="image/svg+xml" style="width:100%; max-width:1092px;"></object>
+<object data="./assets/images/symbol.svg" type="image/svg+xml" width="100%"></object>
 
 ※ 厳密には PCA の第1主成分は「分散が最大の方向」であり、「最も意味がある方向」とは限らないが、数学的メタファーってことで。
 
@@ -249,7 +249,7 @@ $$
 
 ## それが**Null（無）**
 
-<object data="./assets/images/ultimate-symbol.svg" type="image/svg+xml" style="width:100%; max-width:1215px;"></object>
+<object data="./assets/images/ultimate-symbol.svg" type="image/svg+xml" width="100%"></object>
 
 森羅万象を抽象化し続けると最後は**Null** (**無**)になる
 
