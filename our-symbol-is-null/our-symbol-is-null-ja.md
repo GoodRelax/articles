@@ -1,3 +1,19 @@
+---
+layout: default
+title: "みんなの象徴はNull*である"
+date: 2026-02-14
+lang: ja
+key: our-symbol-is-null
+tags: [idea, poem, LLM, mathematics, philosophy]
+---
+
+## 目次
+
+- Table of Contents
+  {:toc}
+
+---
+
 ## **みんなの象徴はNull** である
 
 ### The Symbol for All of Us is Null
