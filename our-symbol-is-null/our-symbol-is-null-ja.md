@@ -6,9 +6,12 @@ lang: ja
 key: our-symbol-is-null
 tags: [idea, poem, LLM, mathematics, philosophy]
 ---
+
 ## Index
-* Table of Contents
-{:toc}
+
+- Table of Contents
+  {:toc}
+
 ---
 
 ## **みんなの象徴はNull** である
@@ -80,9 +83,13 @@ lenOfApple = GetLength(apple)
 
 ![embedding](.\assets\images\embedding.svg)
 
-ChatGPT や Gemini のような LLM(Large Language Model) は、だいたいこの仕組み。 Embedding (埋め込み) ってやつ。
+ChatGPT や Gemini のような LLM(Large Language Model) は、だいたいこの仕組み。
+Embedding (埋め込み) ってやつ。
 
 詳しくは 3Blue1Brown の動画を参照されたし。名作ばかりだ。
+
+![Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+![GPTとは何か Transformerの視覚化 | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=KlZ-QmPteqM)
 
 ---
 
@@ -205,6 +212,11 @@ PCA? 何それおいしいの？ って人もきっと経験したことがあ�
 $ k = 2 $ にすれば 2次元のマトリクスになる
 
 これって、私たちが無意識にやっている「ざっくり理解」と同じ。
+
+詳しくはこの動画がおすすめ。
+
+![Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
+![Chapter 16 抽象ベクトル空間 | 線形代数のエッセンス](https://www.youtube.com/watch?v=FhIXzQdIwRI)
 
 ---
 
