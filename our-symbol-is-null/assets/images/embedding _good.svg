@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="396" height="345" viewBox="0 0 396 345" xml:space="preserve">
+  <defs>
+    <style>.gr-bg { fill: #ffffff; }
+  .gr-axis { fill: #333333; }
+  .gr-stroke { stroke: #333333; }
+  .gr-text { fill: #333333; }
+  @media (prefers-color-scheme: dark) {
+    .gr-bg { fill: #1a1a1a; }
+    .gr-axis { fill: #e0e0e0; }
+    .gr-stroke { stroke: #e0e0e0; }
+    .gr-text { fill: #e0e0e0; }
+  }</style>
+  </defs>
+  <rect class="gr-bg" x="0" y="0" width="396" height="345"/>
+  <g transform="translate(-415 -175)">
+    <path d="M478 442 739.922 442 739.922 444 478 444ZM738.588 439 746.588 443 738.588 447Z" class="gr-axis"/>
+    <path d="M532 494.588 532 232.667 534 232.667 534 494.588ZM529 234 533 226 537 234Z" class="gr-axis"/>
+    <path d="M0.858137-1.80654 185.376 85.8424 183.66 89.4555-0.858137 1.80654ZM185.286 81.3712 200.777 95.3722 180.137 92.2104Z" fill="#EE0000" transform="matrix(1 0 0 -1 533 442.372)"/>
+    <path d="M1.55705-1.25523 92.4947 111.549 89.3806 114.059-1.55705 1.25523ZM94.3536 107.481 102.235 126.817 85.0113 115.012Z" fill="#FFC000" transform="matrix(1 0 0 -1 533 442.817)"/>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(734.731 342)" class="gr-text">🍎</text>
+    <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="32" transform="translate(630.354 310)" class="gr-text">🍊</text>
+    <rect x="415.5" y="175.5" width="395" height="344" stroke="#B2B2B2" stroke-width="0.333333" stroke-miterlimit="8" fill="none"/>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="19" transform="translate(430.835 209)" class="gr-text">Embedding</text>
+  </g>
+</svg>
