@@ -103,7 +103,8 @@ Induction ↔︎ Deduction:
       An orange detached from a branch will fall due to gravity.
 
 Concrete ↔︎ Abstract :  
-      There's a round, red, sweet apple and a round, yellow, sweet orange.
+      There's a round, red, sweet apple  
+      and a round, yellow, sweet orange.
                         ↑↓
       There are two round fruits.
 </pre>
@@ -129,10 +130,10 @@ Apply analogy and contrast:
 
 <pre>
 Analogy: a linear transformation toward the same direction  
-                     → Apples and oranges are both sweet and round  
+             → Apples and oranges are both sweet and round  
           
 Contrast: a linear transformation toward opposite directions 
-                     → Apples are red, but oranges are orange
+             → Apples are red, but oranges are orange
 </pre>
 
 
@@ -160,7 +161,8 @@ Induction:  Extracting a law vector
   → An apple fell from the tree. There seems to be gravity.
 
 Deduction:  Superposing a law vector  
-  → An orange detached from a branch will fall to the ground due to gravity.
+  → An orange detached from a branch will fall  
+     to the ground due to gravity.
 </pre>
 
 As a vector diagram:
@@ -180,12 +182,17 @@ In notation:
 
 ---
 
-### Concrete and Abstract Are Gain and Loss of Information
+### Concrete and Abstract Are Information Gain/Loss for Shifting Levels
 
-- **To concretize** is to add parameters (attributes), increasing information,   
-  no special rules.
-- **To abstract** is to remove parameters (attributes), reducing information  
-  **toward the nice essence.**  
+<pre>
+- To concretize: is to add parameters (attributes),  
+   gain information, and move down a level of cognition.   
+     No special rules.
+  
+- To abstract: is to remove parameters (attributes),  
+   lose information, and move up a level of cognition,  
+     **toward the nice essence.**
+</pre>
 
 An example:
 
@@ -221,7 +228,7 @@ You know those personality quizzes with ~50 questions that plot you on a matrix 
 Those 50 questions are basically a 50-dimensional vector.  
 PCA squishes it down to 2 dimensions to make a "personality map."
 
-<object data="./assets/images/personality_profiling_ja.svg" type="image/svg+xml" style="max-width:90vw;"></object>
+<object data="./assets/images/personality_profiling_en.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
 In notation:
 
@@ -243,32 +250,35 @@ For more, this video is excellent:
 
 ---
 
-### A Symbol Is the First Principal Component
+### Symbols are the First Principal Components
 
-When you organize information about something, some of it matters more than the rest. Naturally, you want to express the most important piece as simply and memorably as possible.
+When we organize information about something, some of it matters more than the rest.  
+Naturally, we want to pin a simple mark on the most important piece so it sticks.
 
-That's what **symbols** are.  
+That's what **symbols** are.
 
 Flags, logos, kings, pop idols…
 
-When people rally around a symbol, here's what they're actually doing: from everyone's messy, sprawling vectors, they're zeroing in on the single most important one.
+When people rally around a symbol, here's what they're actually doing:  
+from everyone’s messy, sprawling vectors, they converge on the single most important direction.
 
 That most important vector = PCA's **first principal component**.
 
-<object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
+PCA extracts the dominant direction of variance.
+The first principal component can be interpreted as a **symbol** capturing shared structure.
+The arrow that best represents everyone.
 
-The first principal component of PCA is "the direction of maximum variance"--the vector that preserves the most information about the group. The arrow that best represents everyone.  
-In other words: **symbol**.
+<object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
 ---
 
 ### What's at the End of Abstraction?
 
-Abstraction strips away information toward the **nice essence**.
+Abstraction strips away information toward the **core essence**.
 
-- Strip a solid down and you get a plane.
-- Strip a plane down and you get a line.
-- Strip a line down and you get a point.  
+- Strip a solid down and we get a plane.
+- Strip a plane down and we get a line.
+- Strip a line down and we get a point.  
   → $ \mathbb{R}^0 $ still contains the information "a single point exists."
 - Strip even that away, and…?
 
@@ -276,13 +286,15 @@ $$
 \mathbb{R}^3 \to \mathbb{R}^2 \to \mathbb{R}^1 \to \mathbb{R}^0 = \{*\} \to \emptyset = \text{Null}
 $$
 
-What remains is **empty space.**
+What remains is primordial space, prior to any structure.
 
 ## That Is **Null**.
 
 <object data="./assets/images/ultimate-symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
-If you keep abstracting everything in the universe, you arrive at **Null**--**nothingness**.
+Here, Null means the ultimate absence after abstraction.
+
+If we keep abstracting everything in the universe, we arrive at **Null** -- nothingness.
 
 And so **Null**:
 
@@ -290,13 +302,13 @@ And so **Null**:
 - Carries no attributes.
 - Is the **ultimate symbol**, with every vector stripped away.
 
-Apples, oranges, you, me -- all of us.
+Apples, oranges, you, me — all of us.
 
 ### Strip away the infinite-dimensional noise, and everyone arrives at the same space. That space is **Null.**
 
-The primordial void before creation. *Form is emptiness.* The Big Bang. They're all pointing at the same thing.
+Primordial space before creation. *Form is emptiness.* The Big Bang. They all point to the same thing.
 
-#### Friends who share the same symbol -- let's get along! ✌️
+#### Friends who share the same symbol — let’s get along. ♪
 
 ---
 
