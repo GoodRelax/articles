@@ -1,9 +1,10 @@
 ---
+layout: default
 title: "The Symbol for All of Us is Null"
-published: true
-description: "Vectors, abstraction, PCA, and why 'nothing' is the ultimate symbol that unites us all."
+date: 2026-02-14
+lang: en
+key: our-symbol-is-null
 tags: [mathematics, philosophy, machinelearning, beginners]
-cover_image:
 ---
 
 ## **The Symbol for All of Us is Null**
@@ -91,17 +92,20 @@ Most sports and martial arts have fundamental forms. So does the way we see and 
 These three pairs are the basic stances of reasoning. Most people use them without realizing it. But once you name and practice them consciously, you'll understand *anything* faster and deeper.
 
 <pre>
-Analogy  ↔︎ Contrast :  Apples and oranges are both sweet.
-                                                        ↑↓
-                                           Apples are red; oranges are yellow.
+Analogy ↔︎ Contrast :  
+      Apples and oranges are both sweet.
+                        ↑↓
+      Apples are red; oranges are yellow.
 
-Induction ↔︎ Deduction: An apple fell from the tree. There seems to be gravity.
-                                                        ↑↓
-                                            An orange detached from a branch will fall due to gravity.
+Induction ↔︎ Deduction:  
+      An apple fell from the tree. There seems to be gravity.
+                        ↑↓
+      An orange detached from a branch will fall due to gravity.
 
-Concrete ↔︎ Abstract :  There's a round, red, sweet apple and a round, yellow, sweet orange.
-                                                        ↑↓
-                                           There are two round fruits.
+Concrete ↔︎ Abstract :  
+      There's a round, red, sweet apple and a round, yellow, sweet orange.
+                        ↑↓
+      There are two round fruits.
 </pre>
 
 
@@ -118,13 +122,19 @@ Analogy is finding what's the same. Contrast is finding what's different.
 
 An example:
 
-An apple is round, red, and sweet.
+An apple is round, red, and sweet.  
 An orange is round, orange, and sweet.
 
 Apply analogy and contrast:
 
-- **Analogy:** a linear transformation toward the same direction → Apples and oranges are both sweet and round
-- **Contrast:** a linear transformation toward opposite directions → Apples are red, but oranges are orange
+<pre>
+Analogy: a linear transformation toward the same direction  
+                     → Apples and oranges are both sweet and round  
+          
+Contrast: a linear transformation toward opposite directions 
+                     → Apples are red, but oranges are orange
+</pre>
+
 
 As a vector diagram:
 
@@ -140,18 +150,18 @@ In notation, using linear maps $ T_{analogy} $ and $ T_{contrast} $:
 
 ### Induction and Deduction Are Vector Subtraction and Addition
 
-Induction is searching for laws from specific past observations.
+Induction is searching for laws from specific past observations.  
 Deduction is inferring specific future events from laws.
 
 Newton's universal gravitation is the classic example.
 
-```
-Induction:  Extracting a law vector
-            → An apple fell from the tree. There seems to be gravity.
+<pre>
+Induction:  Extracting a law vector  
+  → An apple fell from the tree. There seems to be gravity.
 
-Deduction:  Superposing a law vector
-            → An orange detached from a branch will fall to the ground due to gravity.
-```
+Deduction:  Superposing a law vector  
+  → An orange detached from a branch will fall to the ground due to gravity.
+</pre>
 
 As a vector diagram:
 
@@ -163,19 +173,23 @@ In notation:
 
 - $ \text{Deduction} : \text{Superposition}(\vec{object}) \Rightarrow \vec{future} \mid \vec{future} = \vec{object} + \vec{law} $
 
-- Induction is *estimation*. You stack multiple observations, cancel out the noise, and let the hidden law float to the surface.
-- Deduction is *certainty*. A law applies to the future, no ifs or buts.
+- Induction is *estimation*.  
+  You stack multiple observations, cancel out the noise, and let the hidden law float to the surface.   
+- Deduction is *certainty*.  
+  A law applies to the future, no ifs or buts.
 
 ---
 
 ### Concrete and Abstract Are Gain and Loss of Information
 
-- **To concretize** is to add parameters (attributes), increasing information. No special rules.
-- **To abstract** is to remove parameters (attributes), reducing information--**toward some sort of meaningful essence.**
+- **To concretize** is to add parameters (attributes), increasing information,   
+  no special rules.
+- **To abstract** is to remove parameters (attributes), reducing information  
+  **toward the nice essence.**  
 
 An example:
 
-Take the abstraction "fruit." Add the parameters "round," "red," and "sweet," and you get "apple."
+Take the abstraction "fruit." Add the parameters "round," "red," and "sweet," and you get "apple."  
 Take "apple" and strip away various parameters, and you might end up with just "round."
 
 As a diagram:
@@ -188,21 +202,24 @@ In notation:
 
 - $ \text{Abstract}(\vec{object}) \Rightarrow \vec{object} \ominus \vec{parameters} $
 
-Take the abstraction "human." Add the parameters "47 years old" and "male," and you get "middle-aged dude." 🍺
+Take the abstraction "human." Add the parameters "47 years old" and "male,"  
+and you get "middle-aged dude." 🍺
 
 ---
 
-## The Meaningful Essence
+## The Nice Essence
 
-When you abstract by stripping away information, doing it haphazardly leads to nonsense.
-Remove the stubble and wrinkles from a middle-aged man and you just get a boy.
-That's not what we want--we want to extract the stuff that actually *matters*.
+When you abstract by stripping away information, doing it haphazardly leads to nonsense.  
+Remove the stubble and wrinkles from a middle-aged man and you just get a boy.  
+That's not what we want--want to extract the information that actually matters.
 
-Enter **PCA (Principal Component Analysis)**.
+That's where **PCA (Principal Component Analysis)** comes in.  
 
 PCA? Sounds fancy? You've probably already experienced it though.
 
-You know those personality quizzes with ~50 questions that plot you on a matrix like "Intuitive ↔ Analytical" vs. "Extroverted ↔ Introverted"? Those 50 questions are basically a 50-dimensional vector. PCA squishes it down to 2 dimensions to make a "personality map."
+You know those personality quizzes with ~50 questions that plot you on a matrix like "Instinctive ↔ Logical" vs. "Extroverted ↔ Introverted"?  
+Those 50 questions are basically a 50-dimensional vector.  
+PCA squishes it down to 2 dimensions to make a "personality map."
 
 <object data="./assets/images/personality_profiling_ja.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
@@ -230,7 +247,7 @@ For more, this video is excellent:
 
 When you organize information about something, some of it matters more than the rest. Naturally, you want to express the most important piece as simply and memorably as possible.
 
-That's a **symbol**.
+That's what **symbols** are.  
 
 Flags, logos, kings, pop idols…
 
@@ -240,17 +257,18 @@ That most important vector = PCA's **first principal component**.
 
 <object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
-The first principal component of PCA is "the direction of maximum variance"--the vector that preserves the most information about the group. The arrow that best represents everyone. In other words: a **symbol**.
+The first principal component of PCA is "the direction of maximum variance"--the vector that preserves the most information about the group. The arrow that best represents everyone.  
+In other words: **symbol**.
 
 ---
 
-### What's the Limit of Abstraction?
+### What's at the End of Abstraction?
 
-Abstraction strips away information toward the **meaningful essence**.
+Abstraction strips away information toward the **nice essence**.
 
 - Strip a solid down and you get a plane.
 - Strip a plane down and you get a line.
-- Strip a line down and you get a point.
+- Strip a line down and you get a point.  
   → $ \mathbb{R}^0 $ still contains the information "a single point exists."
 - Strip even that away, and…?
 
@@ -272,13 +290,13 @@ And so **Null**:
 - Carries no attributes.
 - Is the **ultimate symbol**, with every vector stripped away.
 
-Apples, oranges, you, me--all of us.
+Apples, oranges, you, me -- all of us.
 
 ### Strip away the infinite-dimensional noise, and everyone arrives at the same space. That space is **Null.**
 
 The primordial void before creation. *Form is emptiness.* The Big Bang. They're all pointing at the same thing.
 
-#### Friends who share the same symbol--let's get along! ✌️
+#### Friends who share the same symbol -- let's get along! ✌️
 
 ---
 
