@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="879" height="480" xml:space="preserve" viewBox="0 0 879 480">
+  <defs>
+    <style>.gr-bg { fill: #ffffff; }
+  .gr-axis { fill: #333333; }
+  .gr-stroke { stroke: #333333; }
+  .gr-text { fill: #333333; }
+  @media (prefers-color-scheme: dark) {
+    .gr-bg { fill: #1a1a1a; }
+    .gr-axis { fill: #e0e0e0; }
+    .gr-stroke { stroke: #e0e0e0; }
+    .gr-text { fill: #e0e0e0; }
+  }</style>
+  </defs>
+  <rect class="gr-bg" x="0" y="0" width="879" height="480"/>
+  <g transform="translate(-199 -91)">
+    <path d="M798 156 798 516.602 794 516.602 794 156ZM790 158 796 146 802 158ZM802 514.602 796 526.602 790 514.602Z" class="gr-axis"/>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 133)" class="gr-text">外交的</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 553)" class="gr-text">内向的</text>
+    <path d="M615 346 975.602 346 975.602 350 615 350ZM617 354 605 348 617 342ZM973.602 342 985.602 348 973.602 354Z" class="gr-axis"/>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(995.583 354)" class="gr-text">直感的</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(522.891 354)" class="gr-text">論理的</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 244)" class="gr-text">演出家</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 485)" class="gr-text">求道者</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 244)" class="gr-text">戦略家</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 485)" class="gr-text">研究者</text>
+    <path d="M705 313.5C705 310.462 708.358 308 712.5 308 716.642 308 720 310.462 720 313.5 720 316.538 716.642 319 712.5 319 708.358 319 705 316.538 705 313.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M733 285C733 282.239 737.701 280 743.5 280 749.299 280 754 282.239 754 285 754 287.761 749.299 290 743.5 290 737.701 290 733 287.761 733 285Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M705 291.5C705 280.178 712.835 271 722.5 271 732.165 271 740 280.178 740 291.5 740 302.822 732.165 312 722.5 312 712.835 312 705 302.822 705 291.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M712 265C712 258.925 716.701 254 722.5 254 728.299 254 733 258.925 733 265 733 271.075 728.299 276 722.5 276 716.701 276 712 271.075 712 265Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M695.173 276.276C696.751 274.29 701.746 275.634 706.329 279.276 710.912 282.919 713.348 287.482 711.77 289.467 710.192 291.453 705.197 290.11 700.614 286.468 696.03 282.825 693.595 278.262 695.173 276.276Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M726 313.5C726 310.462 729.582 308 734 308 738.418 308 742 310.462 742 313.5 742 316.538 738.418 319 734 319 729.582 319 726 316.538 726 313.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M858 313.5C858 310.462 861.582 308 866 308 870.418 308 874 310.462 874 313.5 874 316.538 870.418 319 866 319 861.582 319 858 316.538 858 313.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M886 285C886 282.239 890.701 280 896.5 280 902.299 280 907 282.239 907 285 907 287.761 902.299 290 896.5 290 890.701 290 886 287.761 886 285Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M858 291.5C858 280.178 865.835 271 875.5 271 885.165 271 893 280.178 893 291.5 893 302.822 885.165 312 875.5 312 865.835 312 858 302.822 858 291.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M865 265C865 258.925 869.925 254 876 254 882.075 254 887 258.925 887 265 887 271.075 882.075 276 876 276 869.925 276 865 271.075 865 265Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M848.355 276.276C849.934 274.29 854.929 275.634 859.512 279.276 864.095 282.919 866.531 287.482 864.952 289.467 863.374 291.453 858.379 290.11 853.796 286.468 849.213 282.825 846.777 278.262 848.355 276.276Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M880 313.5C880 310.462 883.358 308 887.5 308 891.642 308 895 310.462 895 313.5 895 316.538 891.642 319 887.5 319 883.358 319 880 316.538 880 313.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 5.5C-9.5485e-16 2.46243 3.35786 -7.00223e-16 7.5-1.40045e-15 11.6421-2.80089e-15 15 2.46243 15 5.5 15 8.53757 11.6421 11 7.5 11 3.35786 11-4.77425e-15 8.53757 0 5.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-1 0 0 1 733 446)"/>
+    <path d="M0 4.5C-1.33679e-15 2.01472 4.70101 -5.7291e-16 10.5-1.14582e-15 16.299-2.29164e-15 21 2.01472 21 4.5 21 6.98528 16.299 9 10.5 9 4.70101 9-6.68395e-15 6.98528 0 4.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-1 0 0 1 705 419)"/>
+    <path d="M0 20.5C-2.16433e-15 9.17816 7.61116-2.60992e-15 17-5.21985e-15 26.3888-1.04397e-14 34 9.17816 34 20.5 34 31.8218 26.3888 41 17 41 7.61116 41-1.08216e-14 31.8218 0 20.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-1 0 0 1 733 409)"/>
+    <path d="M0 11C-1.40045e-15 4.92487 4.92487-1.40045e-15 11-2.80089e-15 17.0751-5.60179e-15 22 4.92487 22 11 22 17.0751 17.0751 22 11 22 4.92487 22-7.00223e-15 17.0751 0 11Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-1 0 0 1 727 392)"/>
+    <path d="M0 4.59318C-1.34955e-15 2.05643 4.7459 -5.84773e-16 10.6003-1.16955e-15 16.4546-2.33909e-15 21.2005 2.05643 21.2005 4.59318 21.2005 7.12992 16.4546 9.18635 10.6003 9.18635 4.7459 9.18635-6.74777e-15 7.12992 0 4.59318Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-0.782857 0.622202 0.622202 0.782857 740.152 410.903)"/>
+    <path d="M0 5.5C-9.5485e-16 2.46243 3.35786 -7.00223e-16 7.5-1.40045e-15 11.6421-2.80089e-15 15 2.46243 15 5.5 15 8.53757 11.6421 11 7.5 11 3.35786 11-4.77425e-15 8.53757 0 5.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(-1 0 0 1 712 446)"/>
+    <path d="M878 450C878 447.239 881.358 445 885.5 445 889.642 445 893 447.239 893 450 893 452.761 889.642 455 885.5 455 881.358 455 878 452.761 878 450Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M858 450C858 447.239 861.358 445 865.5 445 869.642 445 873 447.239 873 450 873 452.761 869.642 455 865.5 455 861.358 455 858 452.761 858 450Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M858 429.5C858 418.178 865.835 409 875.5 409 885.165 409 893 418.178 893 429.5 893 440.822 885.165 450 875.5 450 865.835 450 858 440.822 858 429.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M865 403C865 396.925 869.925 392 876 392 882.075 392 887 396.925 887 403 887 409.075 882.075 414 876 414 869.925 414 865 409.075 865 403Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M891.887 416.604C894.16 417.732 893.892 422.897 891.289 428.141 888.687 433.385 884.735 436.722 882.463 435.594 880.19 434.467 880.458 429.301 883.061 424.057 885.663 418.813 889.615 415.476 891.887 416.604Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
+    <path d="M0 4.59318C-1.34955e-15 2.05643 4.7459 -5.84773e-16 10.6003-1.16955e-15 16.4546-2.33909e-15 21.2005 2.05643 21.2005 4.59318 21.2005 7.12992 16.4546 9.18635 10.6003 9.18635 4.7459 9.18635-6.74777e-15 7.12992 0 4.59318Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(0.444554 0.895752 0.895752 -0.444554 855.25 418.646)"/>
+    <rect x="203.5" y="91.5001" width="874" height="475" stroke="#B2B2B2" stroke-width="0.333333" stroke-miterlimit="8" fill="none"/>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="700" font-size="21" transform="translate(212.353 122)" class="gr-text">Personality Profiling</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(255.808 177)" class="gr-text">Q1.</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(331.008 177)" class="gr-text">Are you …?</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(255.808 203)" class="gr-text">Q2.</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(331.008 203)" class="gr-text">Do you …?</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(278.308 228)" class="gr-text">…</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(255.808 254)" class="gr-text">Q50.</text>
+    <text font-family="Verdana,Verdana_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(331.008 254)" class="gr-text">What do you…?</text>
+    <path d="M0 75 0 40.2143C-5.21985e-15 24.8167 12.4822 12.3345 27.8797 12.3345L50.425 12.3345 50.425 0 82 18.75 50.425 37.5 50.425 25.1655 27.8797 25.1655C19.5685 25.1655 12.831 31.9031 12.831 40.2143L12.831 75Z" fill="#B2B2B2" fill-rule="evenodd" transform="matrix(1 0 0 -1 377 373)"/>
+  </g>
+</svg>
