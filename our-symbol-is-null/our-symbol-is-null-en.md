@@ -224,17 +224,16 @@ That's where **PCA (Principal Component Analysis)** comes in.
 
 PCA? Sounds fancy? You've probably already experienced it though.
 
-You know those personality quizzes with ~50 questions that plot you on a matrix like "Instinctive ↔ Logical" vs. "Extroverted ↔ Introverted"?  
+You know those personality quizzes with ~50 questions  
+that plot you on a matrix like "Instinctive ↔ Logical" vs. "Extroverted ↔ Introverted"?  
 Those 50 questions are basically a 50-dimensional vector.  
 PCA squishes it down to 2 dimensions to make a "personality map."
 
 <object data="./assets/images/personality_profiling_en.svg" type="image/svg+xml" style="max-width:90vw;"></object>
 
-In notation:
-
-- Extraction:
-  $\text{Extract}(\vec{data}) \Rightarrow \vec{essence} \mid \vec{essence} = Z W_k \mid W_k = [\vec{v}_1, \dots, \vec{v}_k] \text{ where } \Sigma \vec{v} = \lambda \vec{v}$
-
+In notation:  
+- Extraction:  
+  $\text{Extract}(\vec{data}) \Rightarrow \vec{essence}$          $\mid \vec{essence} = Z W_k \mid W_k = [\vec{v}_1, \dots, \vec{v}_k] \text{ where } \Sigma \vec{v} = \lambda \vec{v}$
   - $ Z$: Zero-centering
   - $ W$: Weight matrix
   - $ \lambda$: Eigenvalues = the size of each MECE-organized component of information
@@ -264,8 +263,8 @@ from everyone’s messy, sprawling vectors, they converge on the single most imp
 
 That most important vector = PCA's **first principal component**.
 
-PCA extracts the dominant direction of variance.
-The first principal component can be interpreted as a **symbol** capturing shared structure.
+PCA extracts the dominant direction of variance.  
+The first principal component can be interpreted as a **symbol** capturing shared structure.  
 The arrow that best represents everyone.
 
 <object data="./assets/images/symbol.svg" type="image/svg+xml" style="max-width:90vw;"></object>

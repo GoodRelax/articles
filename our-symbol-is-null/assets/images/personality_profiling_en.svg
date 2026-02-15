@@ -14,15 +14,15 @@
   <rect class="gr-bg" x="0" y="0" width="879" height="480"/>
   <g transform="translate(-199 -91)">
     <path d="M798 156 798 516.602 794 516.602 794 156ZM790 158 796 146 802 158ZM802 514.602 796 526.602 790 514.602Z" class="gr-axis"/>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 133)" class="gr-text">外交的</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 553)" class="gr-text">内向的</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 133)" class="gr-text">Extroverted</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(759.237 553)" class="gr-text">Introverted</text>
     <path d="M615 346 975.602 346 975.602 350 615 350ZM617 354 605 348 617 342ZM973.602 342 985.602 348 973.602 354Z" class="gr-axis"/>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(995.583 354)" class="gr-text">直感的</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(522.891 354)" class="gr-text">論理的</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 244)" class="gr-text">演出家</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 485)" class="gr-text">求道者</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 244)" class="gr-text">戦略家</text>
-    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 485)" class="gr-text">研究者</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(995.583 354)" class="gr-text">Intuitive</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(522.891 354)" class="gr-text">Logical</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 244)" class="gr-text">Performer</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(887.143 485)" class="gr-text">Seeker</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 244)" class="gr-text">Strategist</text>
+    <text font-family="Yu Gothic UI,Yu Gothic UI_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(649.116 485)" class="gr-text">Researcher</text>
     <path d="M705 313.5C705 310.462 708.358 308 712.5 308 716.642 308 720 310.462 720 313.5 720 316.538 716.642 319 712.5 319 708.358 319 705 316.538 705 313.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
     <path d="M733 285C733 282.239 737.701 280 743.5 280 749.299 280 754 282.239 754 285 754 287.761 749.299 290 743.5 290 737.701 290 733 287.761 733 285Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
     <path d="M705 291.5C705 280.178 712.835 271 722.5 271 732.165 271 740 280.178 740 291.5 740 302.822 732.165 312 722.5 312 712.835 312 705 302.822 705 291.5Z" stroke="#292929" stroke-width="2" stroke-miterlimit="8" fill="#B2B2B2" fill-rule="evenodd"/>
