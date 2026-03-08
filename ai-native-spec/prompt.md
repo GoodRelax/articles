@@ -1,3 +1,7 @@
+レビューするから
+C:\Users\good\_\OneDrive\Documents\GitHub\articles\ai-native-spec\article_en.md
+を和訳して、レビュー用和訳.md で出して。
+
 OK.
 Zennの記事は一旦GitHubで先に公開する。
 C:\Users\good\_\OneDrive\Documents\GitHub\articles\clean-architecture\article_ja.md
