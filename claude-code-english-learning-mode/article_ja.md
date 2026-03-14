@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "プロンプトを書きながら英語を身に着ける作戦"
+title: "プロンプトを書きながら英語を身に付ける作戦"
 date: 2026-03-14
 lang: ja
 key: claude-code-english-learning-mode
