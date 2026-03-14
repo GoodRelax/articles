@@ -89,8 +89,7 @@ https://raw.githubusercontent.com/GoodRelax/gr-tools/refs/heads/main/gr-en-coach
 ただし、実のところ、このスキルの対象者はすこし英語ができる人向け。  
 だいたい、英検3~4級以上。　あとは本人のガッツ次第♪
 
-<details>
-<summary>具体例（クリックで展開）</summary>
+:::details 具体例（クリックで展開）
 
 ユーザー:
 
@@ -111,7 +110,7 @@ Claude:
 
 説教なし。中断なし。さっと直して、確認して、仕事に戻る。
 
-</details>
+:::
 
 このスキルが誰かの役に立ったら幸いです。
 
