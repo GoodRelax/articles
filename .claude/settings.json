@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(gh api repos/GoodRelax/gr-simple-md-renderer/contents --jq '.[].name')",
+      "WebFetch(domain:goodrelax.github.io)",
+      "WebFetch(domain:mermaid.js.org)",
+      "WebFetch(domain:plantuml.com)",
+      "WebFetch(domain:emersonbottero.github.io)",
+      "WebFetch(domain:forum.plantuml.net)",
+      "WebFetch(domain:zenn.dev)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Read(//c/Users/good_/OneDrive/Documents/GitHub/articles/**)",
+      "Read(//c/Users/good_/OneDrive/Documents/GitHub/gr-cheat-sheets/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\good_\\OneDrive\\Documents\\GitHub\\articles\\ai-native-spec"
+    ]
+  }
+}

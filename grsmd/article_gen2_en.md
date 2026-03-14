@@ -1,72 +1,95 @@
 ---
-title: "GRSMD Gen2 — Press R to review what AI wrote"
-published: false
-description: "AI writes .md, you press R. Instant reload. No re-drop, no browser refresh."
-tags: markdown, ai, productivity, webdev
+title: "GRSMD: Markdown Viewer to Keep You in the Zone"
+published: true
+description: "Just press [R] to update AI result."
+tags: markdown, ai, productivity, opensource
 ---
 
-Have AI write a `.md`. Tell it to fix things. Press R.
-That's it — the latest content renders instantly.
-No re-drop. No browser refresh.
+![eye-catch](https://storage.googleapis.com/zenn-user-upload/4099a77630c2-20260308.png)
 
-I don't want to break my train of thought.
-Re-opening files, re-dragging, waiting for a page reload — those few seconds kill the flow.
-GRSMD is built to eliminate that friction.
+## Why?
 
-- **Live:** https://goodrelax.github.io/gr-simple-md-renderer/
-- **Source:** https://github.com/GoodRelax/gr-simple-md-renderer
+I have AI rewrite my docs all the time. VS Code preview works, but it gets sluggish with Mermaid diagrams, math blocks, and long files.
+
+That little lag — just enough to break the flow.
+
+## What I built
+
+[GRSMD](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c) is a Markdown viewer that runs entirely in your browser — no install, no backend.
+(Previous article: [GRSMD: Instant Markdown Viewer — Local & Private](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c))
+
+I just added a reload feature so you never have to re-drag a file again.
+
+### How it works
+
+1. Drop a `.md` onto GRSMD
+2. Have AI update the file (review comments, rewrites, whatever)
+3. Press **[R]** on GRSMD (or click the [Re-load] button)  
+   → The updated content re-renders — scroll position preserved
+
+## Who is this for?
+
+- You use AI to draft or edit Markdown (docs, READMEs, blog posts)
+- You want to preview the result without leaving your browser
+- You care about privacy — no data leaves your machine
+
+👉 https://goodrelax.github.io/gr-simple-md-renderer/
 
 ---
 
 ## Workflow
 
 ```mermaid
-flowchart LR
-    A["AI updates .md"] -->|"[R] key"| B["You review on GRSMD"]
-    B -->|"Feedback"| A
+flowchart TD
+    A["Have AI generate a .md"] -->|"first time only"| B["Drop the file onto GRSMD"]
+    B --> C["Review — Mermaid, math, code blocks,\nall rendered"]
+    C --> D["Have AI update the file"]
+    D -->|"R key"| C
 ```
-
-Mermaid diagrams, LaTeX math, syntax-highlighted code blocks — all rendered in your browser. Quick check, quick feedback. Repeat.
-
-> Live reload uses the FileSystemFileHandle API (Chrome / Edge 86+).
 
 ---
 
-## Bonus: code files too
+## Bonus — code files too
 
-Drop `.py`, `.js`, `.json`, or any text file — syntax highlighting with line numbers. R key reloads these as well.
+Drop `.py`, `.js`, `.json`, or any non-`.md` text file  
+— you get syntax highlighting with line numbers. R key reloads these as well.
+
+Quietly useful for code review.
 
 ---
 
 ## Shortcuts
 
-| Key | Action |
-|-----|--------|
+| Key   | Action          |
+| ----- | --------------- |
 | **R** | **Reload file** |
-| L | Switch to light mode |
-| D | Switch to dark mode |
-| N | Open new tab |
-| C | Clear |
-| ↑ ↓ | Smooth scroll |
+| L     | Light mode      |
+| D     | Dark mode       |
+| N     | New tab         |
+| C     | Clear           |
+| ↑ ↓   | Smooth scroll   |
 
 ---
 
 ## What hasn't changed
 
-- No backend. No data collection
-- PlantUML is the only external call — always asks for consent
-- Single HTML file. Zero install
+- No backend. No data collection.
+- PlantUML is the only external call — always asks for consent first.
+- Single HTML file. Zero install.
 - Free. No ads. OSS.
 
 ---
 
 ## Try it
 
-- **Live:** https://goodrelax.github.io/gr-simple-md-renderer/
-- **Sample:** https://goodrelax.github.io/gr-simple-md-renderer/sample-data.md
-- **Full sample:** https://goodrelax.github.io/gr-simple-md-renderer/sample-data-2.md
+👉 https://goodrelax.github.io/gr-simple-md-renderer/
 
-Drop one of the sample files onto the live page.
+Samples:
+👉 https://goodrelax.github.io/gr-simple-md-renderer/sample-data.md
+👉 https://goodrelax.github.io/gr-simple-md-renderer/sample-data-2.md
+
+GitHub:
+👉 https://github.com/GoodRelax/gr-simple-md-renderer
 
 Previous article:
 [GRSMD: Instant Markdown Viewer — Local & Private](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c)

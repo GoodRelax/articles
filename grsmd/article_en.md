@@ -21,7 +21,7 @@ But you can't keep rendered previews open in separate browser tabs, and you can'
 | Markdown            | marked.js 17.0.1     | Yes                |
 | Mermaid diagrams    | Mermaid.js 11.12.2   | Yes                |
 | Syntax highlighting | highlight.js 11.11.1 | Yes                |
-| LaTeX math          | KaTeX 0.16.28        | Yes                |
+| LaTeX math          | KaTeX 0.16.25        | Yes                |
 | PlantUML            | plantuml.com         | Consent required   |
 
 All rendering exept for PlantUML happens in your local browser.  
@@ -67,3 +67,10 @@ Long press the **`[?]`** button to improve your productivity with AI.
 - **Full sample (Mermaid + PlantUML + LaTeX):** https://goodrelax.github.io/gr-simple-md-renderer/sample-data-2.md
 
 Drop one of the sample files onto the live page.
+
+---
+
+## Update
+
+New features (reload, shortcuts, code-file preview) have been added.
+See the follow-up article: [GRSMD: Markdown Viewer to Keep You in the Zone](https://dev.to/goodrelax/grsmd-markdown-viewer-to-keep-you-in-the-zone)
