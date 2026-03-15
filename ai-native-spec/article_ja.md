@@ -200,14 +200,14 @@ AIは何を作り、何をテストし、何の制約を守るべきか、
 
 テンプレートと論文（なぜこの構成にしたかの根拠）は GitHub に置いてある。
 
-👉 **[https://github.com/GoodRelax/articles/tree/main/ai-native-spec](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/)**
+👉 **[https://github.com/GoodRelax/claude-code-full-auto-dev](https://github.com/GoodRelax/claude-code-full-auto-dev)**
 
 | ファイル                                                                                                              | 内容                                             |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [`anms-essay-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-essay-ja.md)                 | 論文全文（日本語）                               |
-| [`anms-spec-template-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-spec-template-ja.md) | テンプレート本体（日本語）                       |
-| [`anms-essay.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-essay-en.md)                       | 論文全文（英語）。根拠と既存フォーマットとの比較 |
-| [`anms-spec-template.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-spec-template-en.md)       | テンプレート本体（英語）                         |
+| [`anms-essay-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-ja.md)                 | 論文全文（日本語）                               |
+| [`spec-template-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-ja.md) | テンプレート本体（日本語）                       |
+| [`anms-essay-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-en.md)                       | 論文全文（英語）。根拠と既存フォーマットとの比較 |
+| [`spec-template-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-en.md)       | テンプレート本体（英語）                         |
 
 次のAI駆動プロジェクトに取り込んでみては？  
 改善点や別の組み合わせのアイデアがあれば共有してくれると嬉しい。  

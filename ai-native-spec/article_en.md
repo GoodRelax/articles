@@ -160,14 +160,14 @@ Everything else? Let the AI handle it. You review what matters.
 
 The template and essay (explaining *why* this structure) are on GitHub.
 
-👉 **[ANMS Template & Essay](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/)**
+👉 **[ANMS Template & Essay](https://github.com/GoodRelax/claude-code-full-auto-dev)**
 
 | File | Contents |
 | ---- | -------- |
-| [`anms-essay-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-essay-ja.md) | Full essay (Japanese) |
-| [`anms-spec-template-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-spec-template-ja.md) | Spec template (Japanese) |
-| [`anms-essay-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-essay-en.md) | Full essay (English) — rationale & comparison with existing formats |
-| [`anms-spec-template-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/anms-template/anms-spec-template-en.md) | Spec template (English) |
+| [`anms-essay-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-ja.md) | Full essay (Japanese) |
+| [`spec-template-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-ja.md) | Spec template (Japanese) |
+| [`anms-essay-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-en.md) | Full essay (English) — rationale & comparison with existing formats |
+| [`spec-template-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-en.md) | Spec template (English) |
 
 Try it in your next AI-driven project. If you find improvements or different combos that work, I'd love to hear about them.
 
