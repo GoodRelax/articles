@@ -17,7 +17,7 @@ So here's the question: how do you prepare them?
 
 ## Don't Study English. Use It.
 
-Language classes and apps have their place. But the most effective way to learn a language is to *use* it — for something real, every day.
+Language classes and apps have their place. But the most effective way to learn a language is to _use_ it — for something real, every day.
 
 I'm a non-native English speaker. I build software with Claude Code daily. My prompts are in English, but nobody ever corrected me. Claude just executes, grammar mistakes and all.
 
@@ -32,7 +32,7 @@ It's a custom skill for Claude Code. Type `/en on` and every interaction becomes
 3. **Claude confirms your intent** — restates what you want clearly
 4. **You confirm** — then Claude does the work
 
-Four steps. You learn English *while* getting things done. No extra time. No separate app.
+Four steps. You learn English _while_ getting things done. No extra time. No separate app.
 
 ## What It Looks Like
 
@@ -55,7 +55,7 @@ No lectures. No red marks. Just a gentle nudge, then back to work.
 
 Think about how your kids will interact with AI in five years. Ten years.
 
-They won't be "studying AI" as a subject. They'll be *using* AI as a tool — the way we use search engines today. And the ones who can express themselves clearly in English will get better results, faster.
+They won't be "studying AI" as a subject. They'll be _using_ AI as a tool — the way we use search engines today. And the ones who can express themselves clearly in English will get better results, faster.
 
 This skill models exactly that future: **learn English not by studying, but by using it to talk to AI.**
 
@@ -79,8 +79,9 @@ The goal is **flow + learning, not perfection.**
 1. Paste the following prompt:
 
 ```
-Output the skill from the link below as SKILL.md.
-I will copy the result to my skills and use it as /en.
+Output the skill from the link below without any modifications, using `SKILL.md` as the filename.
+Set the `name:` field in the YAML Front Matter to `en`.
+The user will copy the output to their skills to use it as the custom command `/en`.
 https://raw.githubusercontent.com/GoodRelax/gr-tools/refs/heads/main/gr-en-coach/skills/en/SKILL.md
 ```
 

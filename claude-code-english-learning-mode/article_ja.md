@@ -33,8 +33,9 @@ Claude (Code)に毎日のようにプロンプトを打つ。
 1. 下記のプロンプトを貼り付ける：
 
 ```
-下記リンクのスキルを SKILL.md として出力せよ。
-結果を自分のスキルにコピーして、/en で使えるようにする。
+下記リンク先のスキルを一切変更せずにファイル名を `SKILL.md` として出力せよ。
+YAML Front Matter の `name:` は `en` として出力せよ。
+ユーザは出力結果を自分のスキルにコピーして、 カスタムコマンド `/en` で使えるようにする。
 https://raw.githubusercontent.com/GoodRelax/gr-tools/refs/heads/main/gr-en-coach/skills/en/SKILL.md
 ```
 
