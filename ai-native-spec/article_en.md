@@ -19,7 +19,7 @@ The quality of outsourced software comes down to three things:
 
 Number 1? Claude Code. No complaints.
 
-[Number 2? Working on it.](https://github.com/GoodRelax/claude-code-full-auto-dev)
+[Number 2? Working on it.](https://github.com/GoodRelax/gr-sw-maker)
 
 Number 3 is the problem. Too vague → the AI hallucinates features you never asked for. Too verbose → it drowns in context and loses sight of what matters.
 
@@ -160,14 +160,14 @@ Everything else? Let the AI handle it. You review what matters.
 
 The template and essay (explaining *why* this structure) are on GitHub.
 
-👉 **[ANMS Template & Essay](https://github.com/GoodRelax/claude-code-full-auto-dev)**
+👉 **[ANMS Template & Essay](https://github.com/GoodRelax/gr-sw-maker)**
 
 | File | Contents |
 | ---- | -------- |
-| [`anms-essay-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-ja.md) | Full essay (Japanese) |
-| [`spec-template-ja.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-ja.md) | Spec template (Japanese) |
-| [`anms-essay-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/essays/anms-essay-en.md) | Full essay (English) — rationale & comparison with existing formats |
-| [`spec-template-en.md`](https://github.com/GoodRelax/claude-code-full-auto-dev/tree/main/process-rules/spec-template-en.md) | Spec template (English) |
+| [`anms-essay-ja.md`](https://github.com/GoodRelax/gr-sw-maker/tree/main/essays/anms-essay-ja.md) | Full essay (Japanese) |
+| [`spec-template-ja.md`](https://github.com/GoodRelax/gr-sw-maker/tree/main/process-rules/spec-template-ja.md) | Spec template (Japanese) |
+| [`anms-essay-en.md`](https://github.com/GoodRelax/gr-sw-maker/tree/main/essays/anms-essay-en.md) | Full essay (English) — rationale & comparison with existing formats |
+| [`spec-template-en.md`](https://github.com/GoodRelax/gr-sw-maker/tree/main/process-rules/spec-template-en.md) | Spec template (English) |
 
 Try it in your next AI-driven project. If you find improvements or different combos that work, I'd love to hear about them.
 

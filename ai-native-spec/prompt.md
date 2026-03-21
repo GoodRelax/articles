@@ -1,14 +1,14 @@
 DevTo用の記事をレビューするから
-C:\Users\good\_\OneDrive\Documents\GitHub\articles\ai-native-spec\article_en.md
+article_en.md
 を和訳して、以下にレビュー用和訳.md で出して。
-C:\Users\good\_\OneDrive\Documents\GitHub\articles\ai-native-spec\
+(same directory)
 
 OK.
 Zennの記事は一旦GitHubで先に公開する。
-C:\Users\good\_\OneDrive\Documents\GitHub\articles\clean-architecture\article_ja.md
+../clean-architecture/article_ja.md
 
 を参考に
-C:\Users\good\_\OneDrive\Documents\GitHub\articles\ai-native-spec\article_ja.md
+article_ja.md
 の書式を整えて。
 
 コンセプトを決める — ソフトのコンセプトと解決すべき課題を明文化する（Ch1）
